@@ -1,0 +1,1268 @@
+icgc_donor_id	project_code	study_donor_involved_in	submitted_donor_id	donor_sex	donor_vital_status	disease_status_last_followup	donor_relapse_type	donor_age_at_diagnosis	donor_age_at_enrollment	donor_age_at_last_followup	donor_relapse_interval	donor_diagnosis_icd10	donor_tumour_staging_system_at_diagnosis	donor_tumour_stage_at_diagnosis	donor_tumour_stage_at_diagnosis_supplemental	donor_survival_time	donor_interval_of_last_followup	prior_malignancy	cancer_type_prior_malignancy	cancer_history_first_degree_relative
+DO2	ALL-US		TARGET-10-PAIXFI	male				5	5	13	2865	C91.0				2865	2920			
+DO1	ALL-US		TARGET-10-PAIXDK	male	deceased	relapse	progression (liquid tumours)	7	7	12	1169	C91.0				2037	2037			
+DO4	ALL-US		TARGET-10-PAIXGP	female	alive			2	2	16	5087	C91.0				5087	5087			
+DO3	ALL-US		TARGET-10-PAIXFN	male	deceased	relapse	progression (liquid tumours)	15	15	18	650	C91.0				1068	1068			
+DO6	ALL-US		TARGET-10-PAIXPN	male	alive			1	1	15	4946	C91.0				4946	4946			
+DO5	ALL-US		TARGET-10-PAIXPH	female		relapse	progression (liquid tumours)	5	5	8	169	C91.0				939	1095			
+DO8	ALL-US		TARGET-10-PAKFLH	female				19	19	30	3847	C91.0				3847	4015			
+DO7	ALL-US		TARGET-10-PAIXSD	male		relapse	progression (liquid tumours)	18	18	25	1083	C91.0				2389	2555			
+DO49248	ALL-US		TARGET-10-PAPACP	female	deceased		progression (liquid tumours)	6	6	12	1303	C91.0				2378	2378			
+DO49249	ALL-US		TARGET-10-PAPAGK	female	alive		progression (liquid tumours)	2	2	12	771	C91.0				3529	3529			
+DO49246	ALL-US		TARGET-10-PANZWG	female	deceased	relapse	progression (liquid tumours)	3	3	5	293	C91.0				475	475			
+DO49247	ALL-US		TARGET-10-PANZXC	male	deceased	relapse	progression (liquid tumours)	2	2	6	1115	C91.0				1412	1412			
+DO49244	ALL-US		TARGET-10-PANZEV	female	deceased	relapse	progression (liquid tumours)	4	4	8	661	C91.0				1517	1517			
+DO49245	ALL-US		TARGET-10-PANZPJ	male	deceased		progression (liquid tumours)	13	13	16	932	C91.0				953	953			
+DO49242	ALL-US		TARGET-10-PANYZE	female	deceased		progression (liquid tumours)	4	4	12	1272	C91.0				3065	3065			
+DO49243	ALL-US		TARGET-10-PANZAM	female	deceased	relapse	progression (liquid tumours)	17	17	21	574	C91.0				1286	1286			
+DO49251	ALL-US		TARGET-10-PAPBSY	male	deceased		progression (liquid tumours)	2	2	4	77	C91.0				665	665			
+DO49252	ALL-US		TARGET-10-PAPCJS	male	alive	relapse	progression (liquid tumours)	2	2	11	612	C91.0				3224	3224			
+DO49250	ALL-US		TARGET-10-PAPAIZ	female	alive		progression (liquid tumours)	6	6	16	932	C91.0				3632	3632			
+DO49239	ALL-US		TARGET-10-PANXXY	male	deceased	relapse	progression (liquid tumours)	7	7	11	788	C91.0				1450	1450			
+DO49237	ALL-US		TARGET-10-PANXGD	male	deceased			8	8	10	775	C91.0				775	775			
+DO49238	ALL-US		TARGET-10-PANXPE	female	alive		progression (liquid tumours)	4	4	13	1217	C91.0				3365	3365			
+DO49235	ALL-US		TARGET-10-PANWHJ	male	alive		progression (liquid tumours)	3	3	13	1446	C91.0				3770	3770			
+DO49236	ALL-US		TARGET-10-PANWYH	male	deceased		progression (liquid tumours)	5	5	9	1361	C91.0				1418	1418			
+DO49233	ALL-US		TARGET-10-PANVJN	male	alive	relapse	progression (liquid tumours)	2	2	11	1713	C91.0				3317	3317			
+DO49234	ALL-US		TARGET-10-PANVYR	male	deceased	relapse	progression (liquid tumours)	17	17	18	288	C91.0				517	517			
+DO49231	ALL-US		TARGET-10-PANUSN	male	deceased		progression (liquid tumours)	3	3	8	1517	C91.0				1715	1715			
+DO49232	ALL-US		TARGET-10-PANVIC	female	deceased	relapse	progression (liquid tumours)	8	8	13	969	C91.0				1752	1752			
+DO49240	ALL-US		TARGET-10-PANYGB	female	deceased		progression (liquid tumours)	8	8	13	1321	C91.0				2110	2110			
+DO49241	ALL-US		TARGET-10-PANYYV	female	alive		progression (liquid tumours)	3	3	12	1304	C91.0				3122	3122			
+DO49228	ALL-US		TARGET-10-PANTSM	male	deceased		progression (liquid tumours)	7	7	10	1087	C91.0				1214	1214			
+DO49229	ALL-US		TARGET-10-PANUHA	male	alive		progression (liquid tumours)	4	4	15	1294	C91.0				4017	4017			
+DO49226	ALL-US		TARGET-10-PANSPW	male	deceased		progression (liquid tumours)	13	13	16	113	C91.0				870	870			
+DO49227	ALL-US		TARGET-10-PANSUL	male	deceased		progression (liquid tumours)	2	2	5	929	C91.0				1068	1068			
+DO49224	ALL-US		TARGET-10-PANSDA	female	deceased		progression (liquid tumours)	13	13	16	863	C91.0				1141	1141			
+DO49225	ALL-US		TARGET-10-PANSHK	male	deceased		progression (liquid tumours)	2	2	9	1354	C91.0				2447	2447			
+DO49222	ALL-US		TARGET-10-PANRYX	male	deceased	relapse	progression (liquid tumours)	26	26	27	404	C91.0				603	603			
+DO49223	ALL-US		TARGET-10-PANSBR	male	deceased		progression (liquid tumours)	21	21	25	728	C91.0				1688	1688			
+DO49220	ALL-US		TARGET-10-PANPJW	male	alive	relapse	progression (liquid tumours)	13	13	15	424	C91.0				882	882			
+DO49221	ALL-US		TARGET-10-PANRVB	female	deceased	relapse	progression (liquid tumours)	13	13	19	1442	C91.0				2188	2188			
+DO49230	ALL-US		TARGET-10-PANUKN	male	deceased	relapse	progression (liquid tumours)	16	16	23	1028	C91.0				2693	2693			
+DO49219	ALL-US		TARGET-10-PANKKU	female	deceased	relapse	progression (liquid tumours)	1	1	3	546	C91.0				563	563			
+DO49217	ALL-US		TARGET-10-PANJWJ	male	alive		progression (liquid tumours)	11	11	21	689	C91.0				3684	3684			
+DO49218	ALL-US		TARGET-10-PANKAK	male	deceased		progression (liquid tumours)	6	6	9	950	C91.0				1095	1095			
+DO49215	ALL-US		TARGET-10-PANGIF	female	deceased		progression (liquid tumours)	11	11	12	368	C91.0				428	428			
+DO49216	ALL-US		TARGET-10-PANIEU	male	deceased			8	8	9		C91.0				526	526			
+DO49213	ALL-US		TARGET-10-PANDWE	female	deceased		progression (liquid tumours)	14	14	19	1137	C91.0				1571	1571			
+DO49214	ALL-US		TARGET-10-PANDYD	male	deceased	relapse	progression (liquid tumours)	16	16	17	209	C91.0				345	345			
+DO49211	ALL-US		TARGET-10-PANDPX	male	alive	relapse	progression (liquid tumours)	4	4	14	1961	C91.0				3625	3625			
+DO49212	ALL-US		TARGET-10-PANDRS	female	deceased	relapse	progression (liquid tumours)	18	18	21	978	C91.0				1063	1063			
+DO49210	ALL-US		TARGET-10-PANDCF	male	deceased	relapse	progression (liquid tumours)	7	7	10	908	C91.0				1069	1069			
+DO49208	ALL-US		TARGET-10-PANBXW	female	deceased	relapse	progression (liquid tumours)	8	8	17	1764	C91.0				3464	3464			
+DO49209	ALL-US		TARGET-10-PANCVR	male	deceased		progression (liquid tumours)	6	6	8	285	C91.0				473	473			
+DO230567	ALL-US		TARGET-10-PARAYM	male	alive			15	15	25		C91.0				3399	3399			
+DO230569	ALL-US		TARGET-10-PARCVM	male	alive			4	4	11		C91.0				2424	2424			
+DO230564	ALL-US		TARGET-10-PARASZ	female	alive			4	4	13		C91.0				3087	3087			
+DO230578	ALL-US		TARGET-10-PARFPJ	male	alive			4	4	12		C91.0				2946	2946			
+DO230577	ALL-US		TARGET-10-PARFIH	male	alive			5	5	8		C91.0				1099	1099			
+DO230571	ALL-US		TARGET-10-PAREGZ	female	alive			9	9	17		C91.0				3087	3087			
+DO230574	ALL-US		TARGET-10-PARFDL	male	alive			21	21	29		C91.0				3075	3075			
+DO230588	ALL-US		TARGET-10-PARHBT	male	alive			17	17	25		C91.0				2956	2956			
+DO230582	ALL-US		TARGET-10-PARFXJ	male	alive			12	12	20		C91.0				2988	2988			
+DO230586	ALL-US		TARGET-10-PARHBI	male	alive			8	8	16		C91.0				3010	3010			
+DO230584	ALL-US		TARGET-10-PARGFL	male	deceased		progression (liquid tumours)	4	4	9	1079	C91.0				1893	1893			
+DO230599	ALL-US		TARGET-10-PARJNX	female	alive			3	3	11		C91.0				3006	3006			
+DO230598	ALL-US		TARGET-10-PARJAY	female	alive			15	15	23		C91.0				2889	2889			
+DO230593	ALL-US		TARGET-10-PARIYD	male	alive			9	9	17		C91.0				3108	3108			
+DO230591	ALL-US		TARGET-10-PARHES	male	alive		progression (liquid tumours)	5	5	13		C91.0				2940	2940			
+DO230596	ALL-US		TARGET-10-PARIZN	male	deceased		progression (liquid tumours)	10	10	12	537	C91.0				673	673			
+DO230644	ALL-US		TARGET-10-PARPET	female	alive			5	5	10		C91.0				1939	1939			
+DO230642	ALL-US		TARGET-10-PARNXJ	male	alive		progression (liquid tumours)	5	5	13	110	C91.0				2840	2840			
+DO230649	ALL-US		TARGET-10-PARPYJ	female	alive			7	7	15		C91.0				2759	2759			
+DO230647	ALL-US		TARGET-10-PARPUL	male	alive			2	2	10		C91.0				2825	2825			
+DO230646	ALL-US		TARGET-10-PARPHB	male	alive			1	1	9		C91.0				2960	2960			
+DO230656	ALL-US		TARGET-10-PARSNX	male	alive			13	13	19		C91.0				2077	2077			
+DO230655	ALL-US		TARGET-10-PARSJG	male	alive		progression (liquid tumours)	12	12	19	1300	C91.0				2737	2737			
+DO230653	ALL-US		TARGET-10-PARSET	male	alive			11	11	12		C91.0				356	356			
+DO230658	ALL-US		TARGET-10-PARTBP	male	alive			6	6	14		C91.0				3083	3083			
+DO230651	ALL-US		TARGET-10-PARRKK	male	alive			9	9	16		C91.0				2752	2752			
+DO230667	ALL-US		TARGET-10-PARVEI	female	alive			3	3	11		C91.0				2769	2769			
+DO230666	ALL-US		TARGET-10-PARUKW	female	alive			10	10	17		C91.0				2701	2701			
+DO230664	ALL-US		TARGET-10-PARUEU	male	alive			6	6	12		C91.0				2247	2247			
+DO230669	ALL-US		TARGET-10-PARVHY	male	alive			16	16	24		C91.0				2948	2948			
+DO230662	ALL-US		TARGET-10-PARTPW	male	alive			15	15	23		C91.0				2750	2750			
+DO230660	ALL-US		TARGET-10-PARTLY	male	alive			12	12	21		C91.0				3058	3058			
+DO230677	ALL-US		TARGET-10-PARWMF	male	alive			12	12	19		C91.0				2668	2668			
+DO230675	ALL-US		TARGET-10-PARWLP	male	alive			8	8	16		C91.0				2884	2884			
+DO230673	ALL-US		TARGET-10-PARWID	male	alive			19	19	27		C91.0				2648	2648			
+DO230672	ALL-US		TARGET-10-PARWDM	female	alive			16	16	18		C91.0				821	821			
+DO230671	ALL-US		TARGET-10-PARVMR	male	alive			5	5	13		C91.0				2841	2841			
+DO230689	ALL-US		TARGET-10-PARYGI	male	alive			5	5	13		C91.0				2755	2755			
+DO230687	ALL-US		TARGET-10-PARXVS	male	deceased		progression (liquid tumours)	12	12	18	2055	C91.0				2291	2291			
+DO230686	ALL-US		TARGET-10-PARXMV	male	alive			12	12	19		C91.0				2441	2441			
+DO230680	ALL-US		TARGET-10-PARWNW	male	alive			12	12	18		C91.0				2324	2324			
+DO230683	ALL-US		TARGET-10-PARXLS	male	alive			4	4	12		C91.0				2756	2756			
+DO230682	ALL-US		TARGET-10-PARXHT	female	alive			14	14	21		C91.0				2652	2652			
+DO230698	ALL-US		TARGET-10-PASHDV	male	alive			12	12	19		C91.0				2671	2671			
+DO230691	ALL-US		TARGET-10-PASFHR	male	alive			15	15	22		C91.0				2633	2633			
+DO230696	ALL-US		TARGET-10-PASGFH	male	alive			18	18	21		C91.0				1206	1206			
+DO230694	ALL-US		TARGET-10-PASFLK	male	alive			12	12	19		C91.0				2675	2675			
+DO230693	ALL-US		TARGET-10-PASFKA	male	alive			13	13	20		C91.0				2609	2609			
+DO230601	ALL-US		TARGET-10-PARJPL	male	alive			4	4	12		C91.0				3158	3158			
+DO230603	ALL-US		TARGET-10-PARJXW	male	alive			15	15	15		C91.0				35	35			
+DO230608	ALL-US		TARGET-10-PARLJA	male	alive			9	9	17		C91.0				2932	2932			
+DO230606	ALL-US		TARGET-10-PARKLK	male	alive			2	2	2		C91.0				29	29			
+DO230611	ALL-US		TARGET-10-PARLST	male	alive			9	9	18		C91.0				3058	3058			
+DO230616	ALL-US		TARGET-10-PARMKK	male	alive			3	3	12		C91.0				3003	3003			
+DO230615	ALL-US		TARGET-10-PARMIH	male	deceased			12	12	21		C91.0				2953	2953			
+DO230613	ALL-US		TARGET-10-PARMFF	male	alive			8	8	17		C91.0				3189	3189			
+DO230618	ALL-US		TARGET-10-PARMKM	female	alive			2	2	10		C91.0				2995	2995			
+DO230622	ALL-US		TARGET-10-PARMRF	male	alive			6	6	14		C91.0				2989	2989			
+DO230620	ALL-US		TARGET-10-PARMMV	male	alive			6	6	15		C91.0				3052	3052			
+DO230626	ALL-US		TARGET-10-PARMWH	female	alive			21	21	29		C91.0				3089	3089			
+DO230624	ALL-US		TARGET-10-PARMUC	male	alive			3	3	11		C91.0				2995	2995			
+DO230629	ALL-US		TARGET-10-PARNEH	male	deceased			4	4	5		C91.0				524	524			
+DO10	ALL-US		TARGET-10-PAKFRR	female		relapse	progression (liquid tumours)	3	3	8	522	C91.0				1831	1825			
+DO230628	ALL-US		TARGET-10-PARNBN	male	alive			10	10	15		C91.0				1687	1687			
+DO12	ALL-US		TARGET-10-PAKGHN	male				13	13	20	2658	C91.0				2658	2555			
+DO14	ALL-US		TARGET-10-PAKGUA	male	alive			14	14	28	4978	C91.0				4978	4978			
+DO16	ALL-US		TARGET-10-PAKHSB	female	alive			11	11	23	4265	C91.0				4265	4265			
+DO18	ALL-US		TARGET-10-PAKHSV	male				2	2	11	3155	C91.0				3155	3285			
+DO230632	ALL-US		TARGET-10-PARNJB	female	alive			23	23	31		C91.0				3148	3148			
+DO230636	ALL-US		TARGET-10-PARNMV	male	alive			10	10	17		C91.0				2905	2905			
+DO230639	ALL-US		TARGET-10-PARNSP	male	alive			6	6	14		C91.0				3086	3086			
+DO30	ALL-US		TARGET-10-PAKJGT	male				5	5	12	2366	C91.0				2366	2555			
+DO32	ALL-US		TARGET-10-PAKKCA	male	deceased	relapse	progression (liquid tumours)	12	12	15	733	C91.0				1110	1110			
+DO34	ALL-US		TARGET-10-PAKKMW	female	alive			5	5	19	4807	C91.0				4807	4807			
+DO36	ALL-US		TARGET-10-PAKKXB	female				15	15	21	2097	C91.0				2097	2190			
+DO38	ALL-US		TARGET-10-PAKLGW	male	alive			17	17	28	3689	C91.0				3689	3689			
+DO20	ALL-US		TARGET-10-PAKHUK	female	alive	relapse	progression (liquid tumours)	1	1	15	3593	C91.0				5204	5204			
+DO22	ALL-US		TARGET-10-PAKHZT	male	deceased	relapse	progression (liquid tumours)	14	14	16	355	C91.0				605	605			
+DO24	ALL-US		TARGET-10-PAKIFK	male		relapse	progression (liquid tumours)	2	2	8	455	C91.0				2214	2190			
+DO26	ALL-US		TARGET-10-PAKJAA	male	deceased	relapse	progression (liquid tumours)	9	9	16	1205	C91.0				2403	2403			
+DO28	ALL-US		TARGET-10-PAKJDY	female				11	11	18	2598	C91.0				2598	2555			
+DO50	ALL-US		TARGET-10-PAKMZM	male	deceased	relapse	progression (liquid tumours)	18	18	24	1229	C91.0				1914	1914			
+DO52	ALL-US		TARGET-10-PAKNMN	male	deceased	relapse	progression (liquid tumours)	17	17	24	1596	C91.0				2694	2694			
+DO54	ALL-US		TARGET-10-PAKNWJ	male	deceased	relapse	progression (liquid tumours)	14	14	15	362	C91.0				485	485			
+DO56	ALL-US		TARGET-10-PAKNZV	male				15	15	22	2698	C91.0				2698	2555			
+DO58	ALL-US		TARGET-10-PAKPFV	male	deceased	relapse	progression (liquid tumours)	18	18	21	606	C91.0				1306	1306			
+DO40	ALL-US		TARGET-10-PAKLRH	male	deceased	relapse	progression (liquid tumours)	2	2	5	700	C91.0				956	956			
+DO42	ALL-US		TARGET-10-PAKLSW	male				17	17	31	5137	C91.0				5137	5110			
+DO44	ALL-US		TARGET-10-PAKMEU	male				13	13	20	2278	C91.0				2278	2555			
+DO46	ALL-US		TARGET-10-PAKMJF	male	deceased	relapse	progression (liquid tumours)	18	18	22	558	C91.0				1178	1178			
+DO48	ALL-US		TARGET-10-PAKMVD	male				1	1	11	3328	C91.0				3328	3650			
+DO70	ALL-US		TARGET-10-PAKSRG	male	alive			6	6	18	4670	C91.0				4670	4670			
+DO72	ALL-US		TARGET-10-PAKSSH	male	alive			1	1	14	4873	C91.0				4873	4873			
+DO74	ALL-US		TARGET-10-PAKSWW	male	deceased		progression (liquid tumours)	15	15	19	532	C91.0				1592	1592			
+DO76	ALL-US		TARGET-10-PAKTAL	female	deceased	relapse	progression (liquid tumours)	12	12	15	1043	C91.0				1061	1061			
+DO78	ALL-US		TARGET-10-PAKUCV	male				18	18	25	2540	C91.0				2540	2555			
+DO60	ALL-US		TARGET-10-PAKPVX	male				14	14	22	3213	C91.0				3213	2920			
+DO62	ALL-US		TARGET-10-PAKRGU	female				4	4	10	2488	C91.0				2488	2190			
+DO64	ALL-US		TARGET-10-PAKRSL	female	deceased	relapse	progression (liquid tumours)	14	14	16	670	C91.0				705	705			
+DO66	ALL-US		TARGET-10-PAKRXU	male	deceased	relapse	progression (liquid tumours)	3	3	9	905	C91.0				2361	2361			
+DO68	ALL-US		TARGET-10-PAKSEH	female	alive			16	16	23	2629	C91.0				2629	2629			
+DO90	ALL-US		TARGET-10-PAKVKK	male		relapse	progression (liquid tumours)	14	14	25	512	C91.0				4193	4015			
+DO92	ALL-US		TARGET-10-PAKVTS	male				16	16	27	4129	C91.0				4129	4015			
+DO94	ALL-US		TARGET-10-PAKWEA	male				15	15	28	4862	C91.0				4862	4745			
+DO96	ALL-US		TARGET-10-PAKWWU	female	deceased	relapse	progression (liquid tumours)	16	16	17	344	C91.0				496	496			
+DO98	ALL-US		TARGET-10-PAKXAB	female				13	13	20	2716	C91.0				2716	2555			
+DO80	ALL-US		TARGET-10-PAKUGY	male	alive			18	18	29	3938	C91.0				3938	3938			
+DO82	ALL-US		TARGET-10-PAKUKG	female	alive			16	16	29	4710	C91.0				4710	4710			
+DO84	ALL-US		TARGET-10-PAKUPP	male				17	17	28	4193	C91.0				4193	4015			
+DO86	ALL-US		TARGET-10-PAKUPX	male				16	16	20	1611	C91.0				1611	1460			
+DO88	ALL-US		TARGET-10-PAKVKF	male	deceased	relapse	progression (liquid tumours)	18	18	21	1249	C91.0				1296	1296			
+DO49412	ALL-US		TARGET-10-PARUIW	female	alive	relapse	progression (liquid tumours)	5	5	11	945	C91.0				2426	2426			
+DO230766	ALL-US		TARGET-10-PASSZA	male	alive			15	15	22		C91.0				2496	2496			
+DO230765	ALL-US		TARGET-10-PASSSR	male	alive			8	8	15		C91.0				2463	2463			
+DO230763	ALL-US		TARGET-10-PASSRP	male	alive			5	5	8		C91.0				1231	1231			
+DO230767	ALL-US		TARGET-10-PASTDU	male	alive			9	9	16		C91.0				2507	2507			
+DO230762	ALL-US		TARGET-10-PASSPP	male	alive			10	10	17		C91.0				2386	2386			
+DO230777	ALL-US		TARGET-10-PASVIN	male	alive			7	7	14		C91.0				2428	2428			
+DO230776	ALL-US		TARGET-10-PASUSV	male	alive			9	9	16		C91.0				2552	2552			
+DO230775	ALL-US		TARGET-10-PASUIN	male	alive			14	14	21		C91.0				2564	2564			
+DO230774	ALL-US		TARGET-10-PASUGC	male	alive			10	10	16		C91.0				2411	2411			
+DO230779	ALL-US		TARGET-10-PASWFN	male	alive			11	11	18		C91.0				2395	2395			
+DO230778	ALL-US		TARGET-10-PASVPZ	male	alive			4	4	10		C91.0				2432	2432			
+DO230773	ALL-US		TARGET-10-PASTXU	female	alive			13	13	18		C91.0				2002	2002			
+DO230772	ALL-US		TARGET-10-PASTPT	female	alive			5	5	12		C91.0				2490	2490			
+DO230771	ALL-US		TARGET-10-PASTLP	male	alive			9	9	16		C91.0				2240	2240			
+DO230770	ALL-US		TARGET-10-PASTHE	female	alive			6	6	13		C91.0				2543	2543			
+DO230787	ALL-US		TARGET-10-PASXIL	male	alive			9	9	16		C91.0				2493	2493			
+DO230785	ALL-US		TARGET-10-PASWZJ	male	alive			5	5	12		C91.0				2403	2403			
+DO230789	ALL-US		TARGET-10-PASXLT	male	alive			4	4	11		C91.0				2419	2419			
+DO230780	ALL-US		TARGET-10-PASWNU	female	alive			15	15	21		C91.0				2070	2070			
+DO230783	ALL-US		TARGET-10-PASWXZ	female	alive			8	8	14		C91.0				2440	2440			
+DO230782	ALL-US		TARGET-10-PASWXB	male	alive			10	10	16		C91.0				2288	2288			
+DO230781	ALL-US		TARGET-10-PASWSR	female	alive			3	3	10		C91.0				2316	2316			
+DO230799	ALL-US		TARGET-10-PASXUU	male	alive			7	7	13		C91.0				2306	2306			
+DO230797	ALL-US		TARGET-10-PASXUC	female	alive			7	7	13		C91.0				2238	2238			
+DO230791	ALL-US		TARGET-10-PASXLZ	male	alive			5	5	12		C91.0				2312	2312			
+DO230795	ALL-US		TARGET-10-PASXSI	male	alive			9	9	16		C91.0				2420	2420			
+DO230793	ALL-US		TARGET-10-PASXMF	male	alive			10	10	17		C91.0				2359	2359			
+DO49396	ALL-US		TARGET-10-PATSAH	female	deceased	relapse	progression (liquid tumours)	18	18	20	138	C91.0				711	711			
+DO49397	ALL-US		TARGET-10-PATTEE	female	deceased		progression (liquid tumours)	14	14	14	98	C91.0				232	232			
+DO49389	ALL-US		TARGET-10-PASUBW	male	deceased		progression (liquid tumours)	14	14	15	336	C91.0				474	474			
+DO49387	ALL-US		TARGET-10-PASSUP	male	deceased	relapse	progression (liquid tumours)	8	8	10	669	C91.0				798	798			
+DO49388	ALL-US		TARGET-10-PASSXJ	male	deceased		progression (liquid tumours)	4	4	5	323	C91.0				552	552			
+DO49385	ALL-US		TARGET-10-PASMVF	female	alive	relapse	progression (liquid tumours)	3	3	8	671	C91.0				1892	1892			
+DO49386	ALL-US		TARGET-10-PASRXC	male	deceased	relapse	progression (liquid tumours)	3	3	6	650	C91.0				1009	1009			
+DO49394	ALL-US		TARGET-10-PATEEN	male	deceased	relapse	progression (liquid tumours)	23	23	25	418	C91.0				516	516			
+DO49395	ALL-US		TARGET-10-PATISC	male	deceased	relapse	progression (liquid tumours)	9	9	10	302	C91.0				408	408			
+DO49392	ALL-US		TARGET-10-PASYRH	male	deceased	relapse	progression (liquid tumours)	16	16	18	453	C91.0				576	576			
+DO49393	ALL-US		TARGET-10-PATCTI	male	deceased		progression (liquid tumours)	7	7	8	363	C91.0				482	482			
+DO49390	ALL-US		TARGET-10-PASVUW	male	deceased	relapse	progression (liquid tumours)	8	8	9	310	C91.0				420	420			
+DO49391	ALL-US		TARGET-10-PASYGM	female	deceased		progression (liquid tumours)	8	8	9	314	C91.0				429	429			
+DO49378	ALL-US		TARGET-10-PASEVJ	female	deceased		progression (liquid tumours)	11	11	14	678	C91.0				892	892			
+DO49379	ALL-US		TARGET-10-PASFPU	female	deceased	relapse	progression (liquid tumours)	14	14	15	186	C91.0				410	410			
+DO49376	ALL-US		TARGET-10-PASCIU	male	deceased		progression (liquid tumours)	2	2	5	735	C91.0				977	977			
+DO49377	ALL-US		TARGET-10-PASDYK	female	deceased		progression (liquid tumours)	4	4	6	520	C91.0				736	736			
+DO49374	ALL-US		TARGET-10-PARWVN	female	alive		progression (liquid tumours)	2	2	10	1040	C91.0				2817	2817			
+DO49375	ALL-US		TARGET-10-PARXMC	female	alive		progression (liquid tumours)	7	7	15	672	C91.0				2818	2818			
+DO49383	ALL-US		TARGET-10-PASKHT	male	deceased		progression (liquid tumours)	12	12	14	550	C91.0				716	716			
+DO49384	ALL-US		TARGET-10-PASLZM	female	deceased		progression (liquid tumours)	7	7	8	258	C91.0				407	407			
+DO49381	ALL-US		TARGET-10-PASHUI	male	deceased		progression (liquid tumours)	5	5	7	574	C91.0				605	605			
+DO49382	ALL-US		TARGET-10-PASKAY	male	deceased		progression (liquid tumours)	2	2	3	312	C91.0				487	487			
+DO49380	ALL-US		TARGET-10-PASFXA	female	deceased		progression (liquid tumours)	7	7	8	455	C91.0				645	645			
+DO230700	ALL-US		TARGET-10-PASHNK	male	alive			7	7	14		C91.0				2578	2578			
+DO230703	ALL-US		TARGET-10-PASHXL	female	alive			14	14	20		C91.0				2491	2491			
+DO230701	ALL-US		TARGET-10-PASHUP	male	alive			10	10	16		C91.0				2443	2443			
+DO230706	ALL-US		TARGET-10-PASILW	female	deceased		progression (liquid tumours)	12	12	17	149	C91.0				1664	1664			
+DO230705	ALL-US		TARGET-10-PASIIY	male	alive			6	6	10		C91.0				1370	1370			
+DO230709	ALL-US		TARGET-10-PASINX	male	alive			11	11	18		C91.0				2516	2516			
+DO230711	ALL-US		TARGET-10-PASJJR	male	alive			14	14	21		C91.0				2503	2503			
+DO230715	ALL-US		TARGET-10-PASJYI	male	alive			14	14	21		C91.0				2439	2439			
+DO230714	ALL-US		TARGET-10-PASJMK	female	alive			6	6	14		C91.0				2646	2646			
+DO230713	ALL-US		TARGET-10-PASJLN	male	alive			11	11	18		C91.0				2662	2662			
+DO230719	ALL-US		TARGET-10-PASKCL	male	alive			13	13	20		C91.0				2539	2539			
+DO230717	ALL-US		TARGET-10-PASKAD	female	alive			10	10	17		C91.0				2536	2536			
+DO230721	ALL-US		TARGET-10-PASKGG	male	alive			16	16	16		C91.0				33	33			
+DO230725	ALL-US		TARGET-10-PASKRN	male	alive			5	5	12		C91.0				2480	2480			
+DO230723	ALL-US		TARGET-10-PASKIC	male	alive			11	11	19		C91.0				2710	2710			
+DO230727	ALL-US		TARGET-10-PASKSY	male	alive			10	10	16		C91.0				2367	2367			
+DO230731	ALL-US		TARGET-10-PASKXN	male	alive			9	9	11		C91.0				579	579			
+DO230730	ALL-US		TARGET-10-PASKTG	male	alive			6	6	12		C91.0				2128	2128			
+DO230736	ALL-US		TARGET-10-PASLBB	male	alive			8	8	15		C91.0				2478	2478			
+DO230734	ALL-US		TARGET-10-PASLAB	female	alive			5	5	12		C91.0				2517	2517			
+DO230738	ALL-US		TARGET-10-PASMHF	female	alive			12	12	19		C91.0				2531	2531			
+DO230743	ALL-US		TARGET-10-PASNEH	male	alive			6	6	13		C91.0				2579	2579			
+DO230741	ALL-US		TARGET-10-PASMNV	male	alive			13	13	20		C91.0				2495	2495			
+DO230747	ALL-US		TARGET-10-PASPBU	male	alive			16	16	22		C91.0				2347	2347			
+DO230746	ALL-US		TARGET-10-PASNTZ	male	alive			7	7	14		C91.0				2486	2486			
+DO230749	ALL-US		TARGET-10-PASPDS	male	alive			11	11	18		C91.0				2626	2626			
+DO230740	ALL-US		TARGET-10-PASMIC	female	alive			13	13	20		C91.0				2500	2500			
+DO230755	ALL-US		TARGET-10-PASRMM	male	alive			4	4	11		C91.0				2485	2485			
+DO230754	ALL-US		TARGET-10-PASRCV	female	alive			3	3	10		C91.0				2451	2451			
+DO230759	ALL-US		TARGET-10-PASSHC	male	alive			15	15	22		C91.0				2483	2483			
+DO230757	ALL-US		TARGET-10-PASSEF	female	alive			5	5	12		C91.0				2487	2487			
+DO230751	ALL-US		TARGET-10-PASPPN	male	deceased		progression (liquid tumours)	13	13	13	188	C91.0				252	252			
+DO230902	ALL-US		TARGET-10-PATFWF	male	alive			17	17	18		C91.0				208	208			
+DO230900	ALL-US		TARGET-10-PATFVG	male	alive			6	6	12		C91.0				2191	2191			
+DO230906	ALL-US		TARGET-10-PATGBY	male	alive			21	21	28		C91.0				2334	2334			
+DO230904	ALL-US		TARGET-10-PATFYZ	male	alive			15	15	22		C91.0				2317	2317			
+DO230908	ALL-US		TARGET-10-PATGKE	male	alive			12	12	17		C91.0				2006	2006			
+DO230912	ALL-US		TARGET-10-PATGMP	male	alive			11	11	17		C91.0				2180	2180			
+DO230910	ALL-US		TARGET-10-PATGLV	male	alive			6	6	12		C91.0				2289	2289			
+DO230916	ALL-US		TARGET-10-PATGWP	male	alive			14	14	20		C91.0				2203	2203			
+DO230914	ALL-US		TARGET-10-PATGVX	male	alive			7	7	14		C91.0				2305	2305			
+DO230919	ALL-US		TARGET-10-PATGXS	female	alive			14	14	20		C91.0				2136	2136			
+DO49369	ALL-US		TARGET-10-PARTYT	male	alive	relapse	progression (liquid tumours)	2	2	8	257	C91.0				2264	2264			
+DO49367	ALL-US		TARGET-10-PARTRW	male	deceased	relapse	progression (liquid tumours)	6	6	10	675	C91.0				1619	1619			
+DO49368	ALL-US		TARGET-10-PARTXF	male	deceased	relapse	progression (liquid tumours)	3	3	5	686	C91.0				1001	1001			
+DO49365	ALL-US		TARGET-10-PARTJL	female	alive		progression (liquid tumours)	3	3	6	509	C91.0				968	968			
+DO49366	ALL-US		TARGET-10-PARTKL	female	deceased		progression (liquid tumours)	3	3	5	805	C91.0				900	900			
+DO49363	ALL-US		TARGET-10-PARSRH	male	deceased	relapse	progression (liquid tumours)	10	10	12	297	C91.0				500	500			
+DO49364	ALL-US		TARGET-10-PARSZH	female	alive		progression (liquid tumours)	13	13	20	1001	C91.0				2400	2400			
+DO49372	ALL-US		TARGET-10-PARVHA	male	deceased	relapse	progression (liquid tumours)	17	17	18	380	C91.0				520	520			
+DO49373	ALL-US		TARGET-10-PARVWD	male	deceased		progression (liquid tumours)	17	17	18	252	C91.0				255	255			
+DO49370	ALL-US		TARGET-10-PARUBK	female	deceased		progression (liquid tumours)	13	13	14	399	C91.0				560	560			
+DO49371	ALL-US		TARGET-10-PARUGP	male	deceased		progression (liquid tumours)	2	2	3	223	C91.0				289	289			
+DO49358	ALL-US		TARGET-10-PARPVU	male	alive	relapse	progression (liquid tumours)	1	1	8	484	C91.0				2513	2513			
+DO49359	ALL-US		TARGET-10-PARPYS	male	deceased	relapse	progression (liquid tumours)	15	15	17	371	C91.0				371	371			
+DO49356	ALL-US		TARGET-10-PARPRD	male	deceased	relapse	progression (liquid tumours)	11	11	14	743	C91.0				944	944			
+DO49357	ALL-US		TARGET-10-PARPRW	female	deceased		progression (liquid tumours)	15	15	16	377	C91.0				442	442			
+DO49354	ALL-US		TARGET-10-PARPCA	female	deceased	relapse	progression (liquid tumours)	6	6	8	251	C91.0				477	477			
+DO49355	ALL-US		TARGET-10-PARPNM	female	deceased		progression (liquid tumours)	14	14	14	116	C91.0				233	233			
+DO49352	ALL-US		TARGET-10-PARNSH	female	deceased		progression (liquid tumours)	18	18	23	1022	C91.0				2029	2029			
+DO49353	ALL-US		TARGET-10-PARNTW	female	alive	relapse	progression (liquid tumours)	3	3	10	957	C91.0				2575	2575			
+DO49361	ALL-US		TARGET-10-PARRKW	female	deceased	relapse	progression (liquid tumours)	7	7	10	705	C91.0				1053	1053			
+DO49362	ALL-US		TARGET-10-PARSGC	male	alive		progression (liquid tumours)	3	3	11	932	C91.0				2829	2829			
+DO49360	ALL-US		TARGET-10-PARPZJ	male	alive		progression (liquid tumours)	2	2	8	419	C91.0				2419	2419			
+DO49349	ALL-US		TARGET-10-PARMXF	female	deceased		progression (liquid tumours)	4	4	7	640	C91.0				951	951			
+DO49347	ALL-US		TARGET-10-PARLZG	female	deceased	relapse	progression (liquid tumours)	11	11	15	1003	C91.0				1546	1546			
+DO49348	ALL-US		TARGET-10-PARMSP	male	deceased		progression (liquid tumours)	18	18	20	441	C91.0				584	584			
+DO49345	ALL-US		TARGET-10-PARLAF	male	alive		progression (liquid tumours)	4	4	12	618	C91.0				2939	2939			
+DO49346	ALL-US		TARGET-10-PARLEK	female	alive		progression (liquid tumours)	9	9	17	799	C91.0				2900	2900			
+DO49343	ALL-US		TARGET-10-PARJZZ	male	deceased		progression (liquid tumours)	4	4	7	795	C91.0				993	993			
+DO49344	ALL-US		TARGET-10-PARKNJ	male	deceased	relapse	progression (liquid tumours)	2	2	3	440	C91.0				464	464			
+DO49341	ALL-US		TARGET-10-PARIAD	male	deceased		progression (liquid tumours)	2	2	3	339	C91.0				510	510			
+DO49342	ALL-US		TARGET-10-PARJSR	male	deceased		progression (liquid tumours)	11	11	14	588	C91.0				853	853			
+DO49350	ALL-US		TARGET-10-PARNDR	male	deceased	relapse	progression (liquid tumours)	17	17	18	202	C91.0				439	439			
+DO49351	ALL-US		TARGET-10-PARNMF	female	alive		progression (liquid tumours)	3	3	11	1022	C91.0				3157	3157			
+DO49338	ALL-US		TARGET-10-PARGML	female	deceased		progression (liquid tumours)	2	2	3	116	C91.0				187	187			
+DO49339	ALL-US		TARGET-10-PARGVZ	female	alive		progression (liquid tumours)	10	10	18	989	C91.0				3152	3152			
+DO49336	ALL-US		TARGET-10-PARGFV	male	alive		progression (liquid tumours)	3	3	12	970	C91.0				3311	3311			
+DO49337	ALL-US		TARGET-10-PARGHW	male	alive		progression (liquid tumours)	19	19	23	482	C91.0				1467	1467			
+DO49334	ALL-US		TARGET-10-PARFTR	male	deceased		progression (liquid tumours)	6	6	7	284	C91.0				465	465			
+DO49335	ALL-US		TARGET-10-PARFVZ	male	alive	relapse	progression (liquid tumours)	8	8	15	952	C91.0				2575	2575			
+DO49332	ALL-US		TARGET-10-PARDWE	male	deceased		progression (liquid tumours)	18	18	20	369	C91.0				504	504			
+DO49333	ALL-US		TARGET-10-PARFLV	male	deceased		progression (liquid tumours)	16	16	17	293	C91.0				334	334			
+DO49330	ALL-US		TARGET-10-PARDLR	female		relapse	progression (liquid tumours)	8	8	13	409	C91.0				1766	1825			
+DO49331	ALL-US		TARGET-10-PARDNF	male	deceased	relapse	progression (liquid tumours)	11	11	11	136	C91.0				212	212			
+DO49340	ALL-US		TARGET-10-PARHUM	female	deceased	relapse	progression (liquid tumours)	19	19	22	876	C91.0				1164	1164			
+DO49329	ALL-US		TARGET-10-PARCHB	male	alive		progression (liquid tumours)	2	2	11	801	C91.0				3047	3047			
+DO49327	ALL-US		TARGET-10-PARBVI	female	deceased		progression (liquid tumours)	14	14	17	958	C91.0				1172	1172			
+DO49328	ALL-US		TARGET-10-PARCBK	male	deceased	relapse	progression (liquid tumours)	17	17	18	580	C91.0				628	628			
+DO49325	ALL-US		TARGET-10-PARBDN	male	deceased	relapse	progression (liquid tumours)	6	6	9	919	C91.0				1096	1096			
+DO49326	ALL-US		TARGET-10-PARBRK	female	deceased			7	7	7		C91.0				99	99			
+DO49323	ALL-US		TARGET-10-PARAKF	female	alive		progression (liquid tumours)	8	8	14	1088	C91.0				1942	1942			
+DO49324	ALL-US		TARGET-10-PARARJ	female	deceased		progression (liquid tumours)	3	3	4	397	C91.0				455	455			
+DO49321	ALL-US		TARGET-10-PAPZST	female	alive		progression (liquid tumours)	15	15	17	171	C91.0				859	859			
+DO49322	ALL-US		TARGET-10-PARACA	male	deceased		progression (liquid tumours)	3	3	5	126	C91.0				806	806			
+DO49320	ALL-US		TARGET-10-PAPZNK	female	deceased		progression (liquid tumours)	10	10	12	625	C91.0				883	883			
+DO49318	ALL-US		TARGET-10-PAPYEX	male	deceased	relapse	progression (liquid tumours)	13	13	17	888	C91.0				888	888			
+DO49319	ALL-US		TARGET-10-PAPZGR	male	deceased	relapse	progression (liquid tumours)	14	14	16	404	C91.0				859	859			
+DO49316	ALL-US		TARGET-10-PAPVTA	male	alive		progression (liquid tumours)	3	3	12	1012	C91.0				3217	3217			
+DO49317	ALL-US		TARGET-10-PAPXED	female	deceased	relapse	progression (liquid tumours)	17	17	21	1088	C91.0				1185	1185			
+DO49314	ALL-US		TARGET-10-PAPUDR	male		relapse	progression (liquid tumours)	4	4	8	889	C91.0				889	1460			
+DO49315	ALL-US		TARGET-10-PAPVNW	female		relapse	progression (liquid tumours)	1	1	7	456	C91.0				1952	2190			
+DO49312	ALL-US		TARGET-10-PAPTHJ	female	alive	relapse	progression (liquid tumours)	3	3	11	1012	C91.0				2911	2911			
+DO49313	ALL-US		TARGET-10-PAPTLM	female	deceased		progression (liquid tumours)	2	2	4	531	C91.0				919	919			
+DO49310	ALL-US		TARGET-10-PAPSPN	male	deceased		progression (liquid tumours)	11	11	13	528	C91.0				733	733			
+DO49311	ALL-US		TARGET-10-PAPTGG	male	alive	relapse	progression (liquid tumours)	4	4	12	664	C91.0				2666	2666			
+DO49309	ALL-US		TARGET-10-PAPSPG	male	deceased		progression (liquid tumours)	13	13	17	965	C91.0				1533	1533			
+DO49307	ALL-US		TARGET-10-PAPRFE	female	deceased			3	3	4		C91.0				391	391			
+DO49308	ALL-US		TARGET-10-PAPRYB	male	deceased	relapse	progression (liquid tumours)	6	6	8	475	C91.0				475	475			
+DO49305	ALL-US		TARGET-10-PAPPHL	male	alive	relapse	progression (liquid tumours)	7	7	15	1332	C91.0				2965	2965			
+DO49306	ALL-US		TARGET-10-PAPRCS	male	deceased		progression (liquid tumours)	14	14	15	353	C91.0				460	460			
+DO49303	ALL-US		TARGET-10-PAPNZE	male	alive	relapse	progression (liquid tumours)	15	15	23	1044	C91.0				2940	2940			
+DO49304	ALL-US		TARGET-10-PAPPGN	male	alive		progression (liquid tumours)	1	1	7	387	C91.0				2256	2256			
+DO49301	ALL-US		TARGET-10-PAPNNX	male	deceased		progression (liquid tumours)	15	15	17	686	C91.0				846	846			
+DO49302	ALL-US		TARGET-10-PAPNTA	male	deceased	relapse	progression (liquid tumours)	4	4	8	583	C91.0				1405	1405			
+DO49300	ALL-US		TARGET-10-PAPNMY	male	deceased		progression (liquid tumours)	14	14	19	881	C91.0				1967	1967			
+DO230886	ALL-US		TARGET-10-PATEMI	female	alive			18	18	24		C91.0				2172	2172			
+DO230884	ALL-US		TARGET-10-PATEIT	female	deceased		progression (liquid tumours)	10	10	11	440	C91.0				605	605			
+DO230888	ALL-US		TARGET-10-PATENL	male	deceased		progression (liquid tumours)	4	4	5	425	C91.0				605	605			
+DO230882	ALL-US		TARGET-10-PATEHZ	male	alive		progression (liquid tumours)	9	9	13	545	C91.0				1707	1707			
+DO230881	ALL-US		TARGET-10-PATEFF	male	alive		progression (liquid tumours)	6	6	12	124	C91.0				2114	2114			
+DO230898	ALL-US		TARGET-10-PATFRM	male	alive			18	18	24		C91.0				2203	2203			
+DO230896	ALL-US		TARGET-10-PATFJP	male	alive			9	9	14		C91.0				2025	2025			
+DO230890	ALL-US		TARGET-10-PATEVL	male	alive			3	3	10		C91.0				2339	2339			
+DO230894	ALL-US		TARGET-10-PATFJD	female	alive			3	3	9		C91.0				2295	2295			
+DO230892	ALL-US		TARGET-10-PATEYS	male	alive			5	5	11		C91.0				1932	1932			
+DO49299	ALL-US		TARGET-10-PAPNFY	male	deceased		progression (liquid tumours)	11	11	15	1083	C91.0				1217	1217			
+DO49297	ALL-US		TARGET-10-PAPMVB	male	deceased		progression (liquid tumours)	2	2	6	776	C91.0				1413	1413			
+DO49298	ALL-US		TARGET-10-PAPMYD	male	deceased		progression (liquid tumours)	14	14	16	496	C91.0				692	692			
+DO49288	ALL-US		TARGET-10-PAPJPH	male	deceased	relapse	progression (liquid tumours)	15	15	16	331	C91.0				378	378			
+DO49289	ALL-US		TARGET-10-PAPJXI	female	alive		progression (liquid tumours)	9	9	18	1409	C91.0				3229	3229			
+DO49286	ALL-US		TARGET-10-PAPJHR	male	deceased		progression (liquid tumours)	11	11	14	1129	C91.0				1186	1186			
+DO49287	ALL-US		TARGET-10-PAPJIB	female	deceased		progression (liquid tumours)	2	2	6	851	C91.0				1344	1344			
+DO49295	ALL-US		TARGET-10-PAPLUG	male	deceased		progression (liquid tumours)	1	1	5	784	C91.0				1155	1155			
+DO49296	ALL-US		TARGET-10-PAPMFI	male	deceased		progression (liquid tumours)	5	5	12	1343	C91.0				2585	2585			
+DO49293	ALL-US		TARGET-10-PAPLDM	female	alive		progression (liquid tumours)	3	3	12	1212	C91.0				3280	3280			
+DO49294	ALL-US		TARGET-10-PAPLTZ	male	deceased		progression (liquid tumours)	6	6	13	1321	C91.0				2585	2585			
+DO49291	ALL-US		TARGET-10-PAPKNC	male	deceased		progression (liquid tumours)	18	18	22	980	C91.0				1413	1413			
+DO49292	ALL-US		TARGET-10-PAPLDL	female	deceased		progression (liquid tumours)	7	7	11	544	C91.0				1187	1187			
+DO49290	ALL-US		TARGET-10-PAPKGY	male	deceased	relapse	progression (liquid tumours)	16	16	20	1222	C91.0				1500	1500			
+DO49279	ALL-US		TARGET-10-PAPHXN	female	deceased	relapse	progression (liquid tumours)	16	16	18	499	C91.0				724	724			
+DO49277	ALL-US		TARGET-10-PAPHJF	female	deceased		progression (liquid tumours)	7	7	8	282	C91.0				483	483			
+DO49278	ALL-US		TARGET-10-PAPHMH	female	deceased		progression (liquid tumours)	30	30	31	322	C91.0				397	397			
+DO49275	ALL-US		TARGET-10-PAPHCJ	male	alive			17	17	18	362	C91.0				362	362			
+DO49276	ALL-US		TARGET-10-PAPHEK	female	deceased			9	9	11		C91.0				647	647			
+DO49284	ALL-US		TARGET-10-PAPISG	female	alive		progression (liquid tumours)	14	14	24	1013	C91.0				3491	3491			
+DO49285	ALL-US		TARGET-10-PAPJHB	female	alive		progression (liquid tumours)	5	5	11	1260	C91.0				1870	1870			
+DO49282	ALL-US		TARGET-10-PAPIPW	female	deceased	relapse	progression (liquid tumours)	9	9	13	1438	C91.0				1459	1459			
+DO49283	ALL-US		TARGET-10-PAPIRZ	female	deceased		progression (liquid tumours)	13	13	16	685	C91.0				1008	1008			
+DO49280	ALL-US		TARGET-10-PAPIDY	female	alive	relapse	progression (liquid tumours)	3	3	11	986	C91.0				2954	2954			
+DO49281	ALL-US		TARGET-10-PAPIJB	female	alive		progression (liquid tumours)	5	5	16	588	C91.0				3715	3715			
+DO49268	ALL-US		TARGET-10-PAPELE	male	deceased	relapse	progression (liquid tumours)	10	10	14	1244	C91.0				1550	1550			
+DO49269	ALL-US		TARGET-10-PAPERG	male	alive	relapse	progression (liquid tumours)	18	18	23	763	C91.0				2157	2157			
+DO49266	ALL-US		TARGET-10-PAPEGV	female	deceased	relapse	progression (liquid tumours)	11	11	14	787	C91.0				923	923			
+DO49267	ALL-US		TARGET-10-PAPEJN	male	deceased		progression (liquid tumours)	3	3	6	342	C91.0				934	934			
+DO49264	ALL-US		TARGET-10-PAPECF	female	alive		progression (liquid tumours)	2	2	6	1178	C91.0				1290	1290			
+DO49265	ALL-US		TARGET-10-PAPEFH	female	deceased		progression (liquid tumours)	7	7	9	816	C91.0				852	852			
+DO49273	ALL-US		TARGET-10-PAPGFP	female	deceased		progression (liquid tumours)	10	10	12	859	C91.0				945	945			
+DO49274	ALL-US		TARGET-10-PAPGYC	female	deceased		progression (liquid tumours)	4	4	9	1186	C91.0				2003	2003			
+DO49271	ALL-US		TARGET-10-PAPFDT	female		relapse	progression (liquid tumours)	3	3	10	873	C91.0				2834	2555			
+DO49272	ALL-US		TARGET-10-PAPFWH	female	deceased		progression (liquid tumours)	17	17	19	711	C91.0				819	819			
+DO49270	ALL-US		TARGET-10-PAPESW	female	alive		progression (liquid tumours)	3	3	13	1120	C91.0				3542	3542			
+DO49259	ALL-US		TARGET-10-PAPDKJ	male	deceased		progression (liquid tumours)	4	4	8	819	C91.0				1456	1456			
+DO49257	ALL-US		TARGET-10-PAPDEE	male	deceased	relapse	progression (liquid tumours)	10	10	13	995	C91.0				1115	1115			
+DO49258	ALL-US		TARGET-10-PAPDJM	male	alive		progression (liquid tumours)	2	2	4	722	C91.0				722	722			
+DO49255	ALL-US		TARGET-10-PAPCVA	male	deceased	relapse	progression (liquid tumours)	14	14	18	1302	C91.0				1469	1469			
+DO49256	ALL-US		TARGET-10-PAPCVZ	female	alive		progression (liquid tumours)	5	5	14	1255	C91.0				3248	3248			
+DO49253	ALL-US		TARGET-10-PAPCPC	male	deceased	relapse	progression (liquid tumours)	3	3	10	1017	C91.0				2399	2399			
+DO49254	ALL-US		TARGET-10-PAPCUR	female	deceased		progression (liquid tumours)	3	3	4	222	C91.0				369	369			
+DO49262	ALL-US		TARGET-10-PAPDWT	female	alive		progression (liquid tumours)	6	6	15	868	C91.0				3470	3470			
+DO49263	ALL-US		TARGET-10-PAPEAB	female	alive		progression (liquid tumours)	4	4	13	1340	C91.0				3353	3353			
+DO49260	ALL-US		TARGET-10-PAPDUF	male	alive		progression (liquid tumours)	3	3	13	1191	C91.0				3669	3669			
+DO49261	ALL-US		TARGET-10-PAPDUV	female	alive		progression (liquid tumours)	5	5	15	1524	C91.0				3501	3501			
+DO230803	ALL-US		TARGET-10-PASYCN	male	alive			11	11	17		C91.0				2313	2313			
+DO230801	ALL-US		TARGET-10-PASYAJ	male	alive			3	3	10		C91.0				2426	2426			
+DO230807	ALL-US		TARGET-10-PASYIS	female	alive			8	8	14		C91.0				2288	2288			
+DO230805	ALL-US		TARGET-10-PASYHN	male	alive			17	17	20		C91.0				1023	1023			
+DO230809	ALL-US		TARGET-10-PASYSJ	male	alive			15	15	21		C91.0				2126	2126			
+DO230813	ALL-US		TARGET-10-PASZEW	female	alive			7	7	14		C91.0				2314	2314			
+DO230811	ALL-US		TARGET-10-PASYWF	female	alive			6	6	12		C91.0				2321	2321			
+DO230817	ALL-US		TARGET-10-PASZJW	male	alive			30	30	36		C91.0				2325	2325			
+DO230815	ALL-US		TARGET-10-PASZIY	male	alive			14	14	21		C91.0				2369	2369			
+DO230819	ALL-US		TARGET-10-PATALJ	male	alive			13	13	18		C91.0				1902	1902			
+DO230821	ALL-US		TARGET-10-PATAXS	male	alive			1	1	7		C91.0				2252	2252			
+DO230825	ALL-US		TARGET-10-PATBDJ	male	alive			16	16	22		C91.0				2344	2344			
+DO230823	ALL-US		TARGET-10-PATAYT	female	alive			6	6	12		C91.0				2370	2370			
+DO230829	ALL-US		TARGET-10-PATBGC	female	alive			11	11	16		C91.0				1841	1841			
+DO230827	ALL-US		TARGET-10-PATBDK	male	alive			8	8	14		C91.0				2312	2312			
+DO230831	ALL-US		TARGET-10-PATBNT	male	alive			14	14	19		C91.0				2156	2156			
+DO230836	ALL-US		TARGET-10-PATBTX	male	alive			3	3	9		C91.0				2185	2185			
+DO230834	ALL-US		TARGET-10-PATBRV	female	deceased			8	8	9		C91.0				213	213			
+DO230838	ALL-US		TARGET-10-PATBYK	female	deceased		progression (liquid tumours)	16	16	18	387	C91.0				743	743			
+DO230843	ALL-US		TARGET-10-PATCDZ	male	alive			13	13	19		C91.0				2190	2190			
+DO230841	ALL-US		TARGET-10-PATCDM	male	deceased		progression (liquid tumours)	3	3	6	357	C91.0				949	949			
+DO230847	ALL-US		TARGET-10-PATCKV	male	alive			14	14	21		C91.0				2406	2406			
+DO230854	ALL-US		TARGET-10-PATCUK	male	alive			12	12	18		C91.0				2244	2244			
+DO230851	ALL-US		TARGET-10-PATCNI	female	alive			5	5	11		C91.0				2400	2400			
+DO230858	ALL-US		TARGET-10-PATDBU	male	alive			10	10	16		C91.0				2334	2334			
+DO230856	ALL-US		TARGET-10-PATCZN	female	alive			5	5	11		C91.0				2302	2302			
+DO230864	ALL-US		TARGET-10-PATDFE	female	alive		progression (liquid tumours)	5	5	12	1166	C91.0				2365	2365			
+DO230868	ALL-US		TARGET-10-PATDKT	male	alive			22	22	29		C91.0				2305	2305			
+DO230866	ALL-US		TARGET-10-PATDGZ	male	alive			3	3	9		C91.0				2324	2324			
+DO230860	ALL-US		TARGET-10-PATDDZ	male	alive			13	13	19		C91.0				2183	2183			
+DO230876	ALL-US		TARGET-10-PATDRC	male	alive			7	7	10		C91.0				1262	1262			
+DO230874	ALL-US		TARGET-10-PATDMN	male	alive			7	7	13		C91.0				2323	2323			
+DO230879	ALL-US		TARGET-10-PATEAK	male	alive			18	18	24		C91.0				2340	2340			
+DO230871	ALL-US		TARGET-10-PATDLG	male	alive			12	12	18		C91.0				2351	2351			
+DO230923	ALL-US		TARGET-10-PATGZA	female	alive			14	14	20		C91.0				2184	2184			
+DO230921	ALL-US		TARGET-10-PATGYH	male	alive			16	16	22		C91.0				2154	2154			
+DO230928	ALL-US		TARGET-10-PATHFE	male	alive			11	11	17		C91.0				2178	2178			
+DO230925	ALL-US		TARGET-10-PATHBG	female	alive			3	3	9		C91.0				2176	2176			
+DO230935	ALL-US		TARGET-10-PATHJF	female	alive			10	10	16		C91.0				2039	2039			
+DO230932	ALL-US		TARGET-10-PATHGY	male	alive			4	4	9		C91.0				2125	2125			
+DO230938	ALL-US		TARGET-10-PATHRF	male	alive			5	5	11		C91.0				2289	2289			
+DO230941	ALL-US		TARGET-10-PATHWV	male	alive			9	9	15		C91.0				2253	2253			
+DO230944	ALL-US		TARGET-10-PATIBE	female	alive			11	11	17		C91.0				2124	2124			
+DO230948	ALL-US		TARGET-10-PATIKN	male	alive			2	2	8		C91.0				2139	2139			
+DO230952	ALL-US		TARGET-10-PATITB	male	alive			15	15	21		C91.0				2191	2191			
+DO230957	ALL-US		TARGET-10-PATJBC	male	alive			5	5	11		C91.0				2203	2203			
+DO230955	ALL-US		TARGET-10-PATITY	male	alive			9	9	14		C91.0				2156	2156			
+DO230959	ALL-US		TARGET-10-PATJLT	male	alive			12	12	18		C91.0				2201	2201			
+DO230963	ALL-US		TARGET-10-PATJZK	male	alive		progression (liquid tumours)	19	19	22	469	C91.0				1335	1335			
+DO230967	ALL-US		TARGET-10-PATKGP	female	alive			11	11	17		C91.0				2167	2167			
+DO230975	ALL-US		TARGET-10-PATKYI	male	alive			21	21	26		C91.0				2009	2009			
+DO230972	ALL-US		TARGET-10-PATKWU	male	alive			13	13	19		C91.0				2083	2083			
+DO230970	ALL-US		TARGET-10-PATKVD	male	alive		progression (liquid tumours)	2	2	8	191	C91.0				2151	2151			
+DO230985	ALL-US		TARGET-10-PATLHS	male	alive			11	11	15		C91.0				1553	1553			
+DO230983	ALL-US		TARGET-10-PATLHH	male	alive			8	8	14		C91.0				2162	2162			
+DO230989	ALL-US		TARGET-10-PATLNS	female	alive			2	2	8		C91.0				2086	2086			
+DO230987	ALL-US		TARGET-10-PATLMA	female	alive			9	9	9		C91.0				87	87			
+DO230980	ALL-US		TARGET-10-PATLGU	male	alive			7	7	13		C91.0				2183	2183			
+DO230996	ALL-US		TARGET-10-PATLRZ	male	alive			14	14	20		C91.0				2025	2025			
+DO230994	ALL-US		TARGET-10-PATLPN	male	alive		progression (liquid tumours)	3	3	8	2055	C91.0				2057	2057			
+DO230991	ALL-US		TARGET-10-PATLNZ	male	alive			10	10	13		C91.0				1221	1221			
+DO222005	ALL-US		TARGET-10-PAPAMB	male	deceased		progression (liquid tumours)	15	15	17	28	C91.0				705	705			
+DO222006	ALL-US		TARGET-10-PAPAME	male	alive			16	16	25	3038	C91.0				3038	3038			
+DO222003	ALL-US		TARGET-10-PAPALF	male	alive			13	13	22	3064	C91.0				3064	3064			
+DO222004	ALL-US		TARGET-10-PAPALK	female	alive	relapse	progression (liquid tumours)	12	12	21	1202	C91.0				3019	3019			
+DO222001	ALL-US		TARGET-10-PAPAKA	female	alive			13	13	21	2730	C91.0				2730	2730			
+DO222002	ALL-US		TARGET-10-PAPAKV	male	alive	relapse	progression (liquid tumours)	7	7	16	742	C91.0				742	742			
+DO222000	ALL-US		TARGET-10-PAPAJV	male				12	12	20	2874	C91.0				2874	2920			
+DO222009	ALL-US		TARGET-10-PAPAMY	female	alive			1	1	10	3149	C91.0				3149	3149			
+DO222007	ALL-US		TARGET-10-PAPAMX	male	alive			2	2	11	3099	C91.0				3099	3099			
+DO222016	ALL-US		TARGET-10-PAPAVC	female				13	13	15	502	C91.0				502	730			
+DO222017	ALL-US		TARGET-10-PAPAVK	female	deceased			17	17	18	264	C91.0				264	264			
+DO222014	ALL-US		TARGET-10-PAPASX	female	alive			2	2	10	2985	C91.0				2985	2985			
+DO222015	ALL-US		TARGET-10-PAPATR	female		progression		15	15	19	47	C91.0				47	1460			
+DO222012	ALL-US		TARGET-10-PAPARB	male	alive			15	15	24	3320	C91.0				3320	3320			
+DO222010	ALL-US		TARGET-10-PAPAPG	female	alive			13	13	22	3025	C91.0				3025	3025			
+DO222011	ALL-US		TARGET-10-PAPAPK	female	deceased			11	11	13	527	C91.0				527	527			
+DO222018	ALL-US		TARGET-10-PAPAWB	female	alive			3	3	12	3231	C91.0				3231	3231			
+DO222019	ALL-US		TARGET-10-PAPAWK	female	alive			12	12	21	3256	C91.0				3256	3256			
+DO222020	ALL-US		TARGET-10-PAPAWY	female	alive			4	4	5	312	C91.0				312	312			
+DO222027	ALL-US		TARGET-10-PAPBDR	male	alive	relapse	progression (liquid tumours)	12	12	19	1753	C91.0				2302	2302			
+DO222028	ALL-US		TARGET-10-PAPBFN	male	deceased			11	11	15		C91.0				1508	1508			
+DO222025	ALL-US		TARGET-10-PAPBDI	male	alive			3	3	12	3265	C91.0				3265	3265			
+DO222026	ALL-US		TARGET-10-PAPBDM	female				5	5	9	1172	C91.0				1172	1460			
+DO222023	ALL-US		TARGET-10-PAPBCI	male	deceased	relapse	progression (liquid tumours)	10	10	19	2602	C91.0				3085	3085			
+DO222024	ALL-US		TARGET-10-PAPBDE	male	alive			2	2	11	3077	C91.0				3077	3077			
+DO222021	ALL-US		TARGET-10-PAPAZL	male	alive			12	12	21	3072	C91.0				3072	3072			
+DO222022	ALL-US		TARGET-10-PAPBCF	female	alive			4	4	13	3014	C91.0				3014	3014			
+DO222029	ALL-US		TARGET-10-PAPBIK	male	alive			4	4	13	3068	C91.0				3068	3068			
+DO222030	ALL-US		TARGET-10-PAPBKV	male	alive			2	2	11	3065	C91.0				3065	3065			
+DO222038	ALL-US		TARGET-10-PAPBUR	female	alive			20	20	29	3317	C91.0				3317	3317			
+DO222039	ALL-US		TARGET-10-PAPBUS	male	alive			2	2	11	3171	C91.0				3171	3171			
+DO222036	ALL-US		TARGET-10-PAPBTG	female	alive			3	3	12	3204	C91.0				3204	3204			
+DO222037	ALL-US		TARGET-10-PAPBTM	male				1	1	6	1722	C91.0				1722	1825			
+DO222034	ALL-US		TARGET-10-PAPBSB	female	alive			12	12	21	3055	C91.0				3055	3055			
+DO222035	ALL-US		TARGET-10-PAPBSE	male				14	14	22	2673	C91.0				2673	2920			
+DO222032	ALL-US		TARGET-10-PAPBMI	female	deceased	relapse	progression (liquid tumours)	14	14	18	850	C91.0				1278	1278			
+DO222033	ALL-US		TARGET-10-PAPBRW	male	alive	relapse	progression (liquid tumours)	14	14	23	1829	C91.0				3314	3314			
+DO222041	ALL-US		TARGET-10-PAPBYJ	female				15	15	22	2375	C91.0				2375	2555			
+DO222042	ALL-US		TARGET-10-PAPBYL	female	alive			10	10	19	3106	C91.0				3106	3106			
+DO222040	ALL-US		TARGET-10-PAPBWZ	male	alive			2	2	11	3083	C91.0				3083	3083			
+DO222049	ALL-US		TARGET-10-PAPCFS	female				9	9	16	2545	C91.0				2545	2555			
+DO222047	ALL-US		TARGET-10-PAPCDC	male				15	15	20	1832	C91.0				1832	1825			
+DO222048	ALL-US		TARGET-10-PAPCDE	female				14	14	19	1547	C91.0				1547	1825			
+DO222045	ALL-US		TARGET-10-PAPCBT	female	alive			14	14	23	3052	C91.0				3052	3052			
+DO222046	ALL-US		TARGET-10-PAPCCB	female	alive			1	1	10	3018	C91.0				3018	3018			
+DO222043	ALL-US		TARGET-10-PAPBYU	male				3	3	11	2636	C91.0				2636	2920			
+DO222044	ALL-US		TARGET-10-PAPCAF	female	alive	relapse	progression (liquid tumours)	1	1	10	205	C91.0				3164	3164			
+DO222052	ALL-US		TARGET-10-PAPCGZ	female	deceased			11	11	19	2449	C91.0				2658	2658			
+DO222053	ALL-US		TARGET-10-PAPCHT	male				14	14	21	2406	C91.0				2406	2555			
+DO222051	ALL-US		TARGET-10-PAPCGH	male	alive			15	15	24	3154	C91.0				3154	3154			
+DO222058	ALL-US		TARGET-10-PAPCNR	female				12	12	19	2287	C91.0				2287	2555			
+DO222059	ALL-US		TARGET-10-PAPCSR	female	alive			12	12	21	3142	C91.0				3142	3142			
+DO222056	ALL-US		TARGET-10-PAPCNG	male	alive			12	12	21	3008	C91.0				3008	3008			
+DO222054	ALL-US		TARGET-10-PAPCJB	female				17	17	21	1275	C91.0				1275	1460			
+DO222055	ALL-US		TARGET-10-PAPCKW	female	alive			6	6	15	3185	C91.0				3185	3185			
+DO222104	ALL-US		TARGET-10-PAPELV	female	alive			14	14	22	2932	C91.0				2932	2932			
+DO222102	ALL-US		TARGET-10-PAPEHY	male	alive			7	7	16	3192	C91.0				3192	3192			
+DO222103	ALL-US		TARGET-10-PAPEIC	female				12	12	15	1401	C91.0				1401	1095			
+DO222100	ALL-US		TARGET-10-PAPEET	male				18	18	19	82	C91.0				82	365			
+DO222101	ALL-US		TARGET-10-PAPEHX	female	alive			2	2	10	3086	C91.0				3086	3086			
+DO222108	ALL-US		TARGET-10-PAPEPP	female	alive			17	17	22	1823	C91.0				1823	1823			
+DO222109	ALL-US		TARGET-10-PAPEPR	female	alive			11	11	19	3135	C91.0				3135	3135			
+DO222106	ALL-US		TARGET-10-PAPELY	male	alive			14	14	22	3109	C91.0				3109	3109			
+DO222107	ALL-US		TARGET-10-PAPENI	female	alive			1	1	9	3041	C91.0				3041	3041			
+DO222115	ALL-US		TARGET-10-PAPEVU	female	alive			4	4	12	2919	C91.0				2919	2919			
+DO222116	ALL-US		TARGET-10-PAPEWA	male	alive			10	10	18	3111	C91.0				3111	3111			
+DO222113	ALL-US		TARGET-10-PAPEUN	male	alive			12	12	20	3123	C91.0				3123	3123			
+DO222114	ALL-US		TARGET-10-PAPEUY	male	alive			11	11	19	3030	C91.0				3030	3030			
+DO222111	ALL-US		TARGET-10-PAPERV	female	deceased			16	16	17	470	C91.0				470	470			
+DO222112	ALL-US		TARGET-10-PAPETT	female	alive			12	12	20	3024	C91.0				3024	3024			
+DO222110	ALL-US		TARGET-10-PAPERK	male	alive			3	3	11	3106	C91.0				3106	3106			
+DO222119	ALL-US		TARGET-10-PAPEXI	female	alive			4	4	12	3029	C91.0				3029	3029			
+DO222117	ALL-US		TARGET-10-PAPEWV	male	alive			4	4	12	3183	C91.0				3183	3183			
+DO222118	ALL-US		TARGET-10-PAPEXA	male	alive			3	3	10	2772	C91.0				2772	2772			
+DO222126	ALL-US		TARGET-10-PAPFCS	female				4	4	11	2624	C91.0				2624	2555			
+DO222127	ALL-US		TARGET-10-PAPFEG	female				5	5	11	2533	C91.0				2533	2190			
+DO222124	ALL-US		TARGET-10-PAPFCM	male	alive			3	3	11	3243	C91.0				3243	3243			
+DO222122	ALL-US		TARGET-10-PAPEZS	male				12	12	20	3259	C91.0				3259	2920			
+DO222123	ALL-US		TARGET-10-PAPEZX	female	alive			13	13	21	2926	C91.0				2926	2926			
+DO222120	ALL-US		TARGET-10-PAPEYA	male	alive			2	2	10	2961	C91.0				2961	2961			
+DO222121	ALL-US		TARGET-10-PAPEYT	male				13	13	19	2294	C91.0				2294	2190			
+DO222128	ALL-US		TARGET-10-PAPFEK	male	alive			12	12	20	3064	C91.0				3064	3064			
+DO222129	ALL-US		TARGET-10-PAPFEL	female				10	10	17	2808	C91.0				2808	2555			
+DO222130	ALL-US		TARGET-10-PAPFFK	female	alive			1	1	9	3084	C91.0				3084	3084			
+DO222138	ALL-US		TARGET-10-PAPFHP	male	alive			2	2	10	2992	C91.0				2992	2992			
+DO222135	ALL-US		TARGET-10-PAPFHD	male	alive			17	17	25	3154	C91.0				3154	3154			
+DO222136	ALL-US		TARGET-10-PAPFHJ	male	alive			16	16	24	3077	C91.0				3077	3077			
+DO222133	ALL-US		TARGET-10-PAPFGW	male	alive			12	12	20	3259	C91.0				3259	3259			
+DO222131	ALL-US		TARGET-10-PAPFGA	female				18	18	23	1957	C91.0				1957	1825			
+DO222132	ALL-US		TARGET-10-PAPFGV	female	deceased			14	14	15	411	C91.0				411	411			
+DO222139	ALL-US		TARGET-10-PAPFHT	female				13	13	18	1869	C91.0				1869	1825			
+DO222141	ALL-US		TARGET-10-PAPFIB	male	alive			6	6	14	2954	C91.0				2954	2954			
+DO222148	ALL-US		TARGET-10-PAPFKS	male				11	11	16	2055	C91.0				2055	1825			
+DO222149	ALL-US		TARGET-10-PAPFLI	female	alive			2	2	10	3113	C91.0				3113	3113			
+DO222147	ALL-US		TARGET-10-PAPFJB	male	alive			11	11	19	3074	C91.0				3074	3074			
+DO222145	ALL-US		TARGET-10-PAPFJA	male				13	13	18	1940	C91.0				1940	1825			
+DO222143	ALL-US		TARGET-10-PAPFIW	male	deceased			15	15	15	178	C91.0				322	322			
+DO222152	ALL-US		TARGET-10-PAPFNA	male		relapse	progression (liquid tumours)	17	17	23	2184	C91.0				2184	2190			
+DO222150	ALL-US		TARGET-10-PAPFMB	male	alive			13	13	21	3193	C91.0				3193	3193			
+DO222159	ALL-US		TARGET-10-PAPFXN	female				2	2	5	1160	C91.0				1160	1095			
+DO222157	ALL-US		TARGET-10-PAPFWZ	female	alive			3	3	6	1133	C91.0				1133	1133			
+DO222155	ALL-US		TARGET-10-PAPFPU	male	alive	relapse	progression (liquid tumours)	8	8	16	1020	C91.0				2951	2951			
+DO222156	ALL-US		TARGET-10-PAPFWE	female				8	8	14	2304	C91.0				2304	2190			
+DO222153	ALL-US		TARGET-10-PAPFNN	male	alive			3	3	11	3022	C91.0				3022	3022			
+DO222154	ALL-US		TARGET-10-PAPFPR	male	alive			10	10	18	3104	C91.0				3104	3104			
+DO222162	ALL-US		TARGET-10-PAPFYX	female	alive			14	14	22	3118	C91.0				3118	3118			
+DO222163	ALL-US		TARGET-10-PAPFZD	male				13	13	18	2152	C91.0				2152	1825			
+DO222160	ALL-US		TARGET-10-PAPFYW	female	alive			11	11	19	3035	C91.0				3035	3035			
+DO222169	ALL-US		TARGET-10-PAPGDR	female	alive			15	15	23	2897	C91.0				2897	2897			
+DO222167	ALL-US		TARGET-10-PAPGBY	male	deceased			20	20	23	1347	C91.0				1347	1347			
+DO222164	ALL-US		TARGET-10-PAPFZJ	female	alive			11	11	19	3105	C91.0				3105	3105			
+DO222165	ALL-US		TARGET-10-PAPGAA	male	alive			4	4	12	3094	C91.0				3094	3094			
+DO222173	ALL-US		TARGET-10-PAPGHE	male	deceased	relapse	progression (liquid tumours)	17	17	21	1372	C91.0				1550	1550			
+DO222174	ALL-US		TARGET-10-PAPGIZ	female				11	11	16	1918	C91.0				1918	1825			
+DO222171	ALL-US		TARGET-10-PAPGGT	male				14	14	20	2507	C91.0				2507	2190			
+DO222170	ALL-US		TARGET-10-PAPGEJ	female	alive			4	4	12	3008	C91.0				3008	3008			
+DO222179	ALL-US		TARGET-10-PAPGNC	female	deceased		progression (liquid tumours)	15	15	21	1889	C91.0				1914	1914			
+DO222177	ALL-US		TARGET-10-PAPGME	male	alive			13	13	21	3141	C91.0				3141	3141			
+DO222178	ALL-US		TARGET-10-PAPGMV	female	deceased		progression (liquid tumours)	12	12	14	28	C91.0				759	759			
+DO222175	ALL-US		TARGET-10-PAPGLJ	male	alive			9	9	17	2967	C91.0				2967	2967			
+DO222176	ALL-US		TARGET-10-PAPGMC	female	alive			18	18	26	3009	C91.0				3009	3009			
+DO222063	ALL-US		TARGET-10-PAPCYX	female	alive			14	14	23	3171	C91.0				3171	3171			
+DO222064	ALL-US		TARGET-10-PAPDAU	male	alive			1	1	10	3220	C91.0				3220	3220			
+DO222061	ALL-US		TARGET-10-PAPCWJ	male	alive			18	18	27	3115	C91.0				3115	3115			
+DO222062	ALL-US		TARGET-10-PAPCWN	female	alive			12	12	21	3170	C91.0				3170	3170			
+DO222060	ALL-US		TARGET-10-PAPCVV	male	alive			18	18	23	1742	C91.0				1742	1742			
+DO222069	ALL-US		TARGET-10-PAPDCK	male	alive			17	17	26	3145	C91.0				3145	3145			
+DO222067	ALL-US		TARGET-10-PAPDCC	female	alive			5	5	14	3126	C91.0				3126	3126			
+DO222068	ALL-US		TARGET-10-PAPDCH	male	alive	relapse	progression (liquid tumours)	2	2	11	2129	C91.0				2978	2978			
+DO222065	ALL-US		TARGET-10-PAPDBE	male				17	17	24	2228	C91.0				2228	2555			
+DO222074	ALL-US		TARGET-10-PAPDGX	male	alive			11	11	20	3156	C91.0				3156	3156			
+DO222075	ALL-US		TARGET-10-PAPDHD	female	alive			14	14	23	2994	C91.0				2994	2994			
+DO222072	ALL-US		TARGET-10-PAPDFU	female	alive			10	10	19	3069	C91.0				3069	3069			
+DO222073	ALL-US		TARGET-10-PAPDGF	male	alive	relapse	progression (liquid tumours)	11	11	20	2567	C91.0				3255	3255			
+DO222070	ALL-US		TARGET-10-PAPDCR	male	alive			4	4	13	3094	C91.0				3094	3094			
+DO222071	ALL-US		TARGET-10-PAPDCU	female				21	21	25	1149	C91.0				1149	1460			
+DO222078	ALL-US		TARGET-10-PAPDKG	female	deceased		progression (liquid tumours)	13	13	15	28	C91.0				634	634			
+DO222079	ALL-US		TARGET-10-PAPDLH	female	alive			4	4	13	3091	C91.0				3091	3091			
+DO222076	ALL-US		TARGET-10-PAPDIZ	female	alive	relapse	progression (liquid tumours)	2	2	11	2559	C91.0				3111	3111			
+DO222077	ALL-US		TARGET-10-PAPDJT	female	deceased	relapse	progression (liquid tumours)	19	19	20	99	C91.0				263	263			
+DO222085	ALL-US		TARGET-10-PAPDRX	male	alive			5	5	14	3064	C91.0				3064	3064			
+DO222086	ALL-US		TARGET-10-PAPDTN	male				4	4	11	2327	C91.0				2327	2555			
+DO222084	ALL-US		TARGET-10-PAPDRL	female	alive			14	14	23	3242	C91.0				3242	3242			
+DO222081	ALL-US		TARGET-10-PAPDNB	male	deceased		progression (liquid tumours)	16	16	18	20	C91.0				661	661			
+DO222082	ALL-US		TARGET-10-PAPDRD	female	alive			1	1	10	3145	C91.0				3145	3145			
+DO222088	ALL-US		TARGET-10-PAPDVA	male	deceased	relapse	progression (liquid tumours)	19	19	28	1623	C91.0				3092	3092			
+DO222096	ALL-US		TARGET-10-PAPDZD	female	alive			2	2	11	3052	C91.0				3052	3052			
+DO222097	ALL-US		TARGET-10-PAPECI	female	alive			3	3	12	3096	C91.0				3096	3096			
+DO222094	ALL-US		TARGET-10-PAPDXN	female	alive			15	15	24	3256	C91.0				3256	3256			
+DO222092	ALL-US		TARGET-10-PAPDXF	male	alive	relapse	progression (liquid tumours)	2	2	11	1650	C91.0				3156	3156			
+DO222093	ALL-US		TARGET-10-PAPDXH	female	deceased			10	10	11	259	C91.0				259	259			
+DO222090	ALL-US		TARGET-10-PAPDVF	female				3	3	11	2794	C91.0				2794	2920			
+DO222091	ALL-US		TARGET-10-PAPDVX	male				15	15	21	2130	C91.0				2130	2190			
+DO222098	ALL-US		TARGET-10-PAPECK	female	alive			1	1	10	2945	C91.0				2945	2945			
+DO222099	ALL-US		TARGET-10-PAPECV	male				4	4	5	28	C91.0				28	365			
+DO222225	ALL-US		TARGET-10-PAPIGX	female	alive			14	14	16		C91.0				644	644			
+DO222226	ALL-US		TARGET-10-PAPIHV	male	alive			15	15	23	3157	C91.0				3157	3157			
+DO222223	ALL-US		TARGET-10-PAPIGH	male	alive			13	13	21	3198	C91.0				3198	3198			
+DO222224	ALL-US		TARGET-10-PAPIGJ	female	alive			13	13	21	3046	C91.0				3046	3046			
+DO222221	ALL-US		TARGET-10-PAPIDR	male	alive			14	14	21	2534	C91.0				2534	2534			
+DO222222	ALL-US		TARGET-10-PAPIDV	male	deceased		progression (liquid tumours)	13	13	13	42	C91.0				42	42			
+DO222220	ALL-US		TARGET-10-PAPIDE	male	deceased	relapse	progression (liquid tumours)	17	17	18	263	C91.0				350	350			
+DO222227	ALL-US		TARGET-10-PAPIHY	male	deceased	relapse	progression (liquid tumours)	14	14	18	914	C91.0				1677	1677			
+DO222228	ALL-US		TARGET-10-PAPIII	female		relapse	progression (liquid tumours)	4	4	8	1244	C91.0				1679	1460			
+DO222236	ALL-US		TARGET-10-PAPIKU	male	alive			12	12	20	3124	C91.0				3124	3124			
+DO222235	ALL-US		TARGET-10-PAPIKR	female	alive			11	11	18	2796	C91.0				2796	2796			
+DO222233	ALL-US		TARGET-10-PAPIKG	male			progression (liquid tumours)	17	17	22	31	C91.0				2051	1825			
+DO222230	ALL-US		TARGET-10-PAPIJF	male	deceased	relapse	progression (liquid tumours)	14	14	19	349	C91.0				2100	2100			
+DO222231	ALL-US		TARGET-10-PAPIJM	male	alive			11	11	14		C91.0				1203	1203			
+DO222238	ALL-US		TARGET-10-PAPIKY	male	alive			7	7	15	3087	C91.0				3087	3087			
+DO222239	ALL-US		TARGET-10-PAPILB	female	alive			4	4	12	3103	C91.0				3103	3103			
+DO222240	ALL-US		TARGET-10-PAPIMH	female	alive			14	14	22	2990	C91.0				2990	2990			
+DO222248	ALL-US		TARGET-10-PANKGK	male	alive			13	13	18		C91.0				2034	2034			
+DO222245	ALL-US		TARGET-10-PANEBL	female	alive		progression (liquid tumours)	1	1	11	30	C91.0				3676	3676			
+DO222246	ALL-US		TARGET-10-PANEUH	male	alive			2	2	13		C91.0				4132	4132			
+DO222243	ALL-US		TARGET-10-PANEPX	male	deceased	relapse	progression (liquid tumours)	19	19	21	350	C91.0				350	350			
+DO222244	ALL-US		TARGET-10-PAMXSP	male	alive			3	3	15		C91.0				4383	4383			
+DO222241	ALL-US		TARGET-10-PAPIML	female	alive	relapse	progression (liquid tumours)	1	1	9	1007	C91.0				3184	3184			
+DO222242	ALL-US		TARGET-10-PAPIRD	female	alive			12	12	20	2898	C91.0				2898	2898			
+DO222249	ALL-US		TARGET-10-PANKMB	female	alive			8	8	20		C91.0				4175	4175			
+DO222250	ALL-US		TARGET-10-PANKRG	male	alive			1	1	12		C91.0				3932	3932			
+DO222251	ALL-US		TARGET-10-PANPJI	female	alive			17	17	28		C91.0				4081	4081			
+DO222258	ALL-US		TARGET-10-PAPBZK	male	deceased		progression (liquid tumours)	18	18	21	365	C91.0				790	790			
+DO222259	ALL-US		TARGET-10-PAPCXR	male	alive			16	16	25	3129	C91.0				3129	3129			
+DO222256	ALL-US		TARGET-10-PANXDR	male	alive			3	3	14		C91.0				3801	3801			
+DO222257	ALL-US		TARGET-10-PAPBES	male	deceased			2	2	12		C91.0				3665	3665			
+DO222254	ALL-US		TARGET-10-PANWVW	male	alive			3	3	13		C91.0				3567	3567			
+DO222252	ALL-US		TARGET-10-PANRDC	male	alive			1	1	12		C91.0				3832	3832			
+DO222253	ALL-US		TARGET-10-PANURW	male	deceased		progression (liquid tumours)	15	15	16	28	C91.0				355	355			
+DO222261	ALL-US		TARGET-10-PAPHGD	male	alive		progression (liquid tumours)	2	2	12	926	C91.0				3579	3579			
+DO222262	ALL-US		TARGET-10-PARELH	male	deceased		progression (liquid tumours)	12	12	13	48	C91.0				486	486			
+DO222260	ALL-US		TARGET-10-PAPEWB	female	alive			7	7	17		C91.0				3430	3430			
+DO222268	ALL-US		TARGET-10-PASIIK	female	deceased	relapse	progression (liquid tumours)	4	4	5	47	C91.0				47	47			
+DO222265	ALL-US		TARGET-10-PARVBS	male			progression (liquid tumours)	16	16	16	34	C91.0				52	0			
+DO222266	ALL-US		TARGET-10-PASFTL	female	alive		progression (liquid tumours)	4	4	10	28	C91.0				2142	2142			
+DO222264	ALL-US		TARGET-10-PARRAF	male	deceased		progression (liquid tumours)	8	8	9	28	C91.0				275	275			
+DO222272	ALL-US		TARGET-10-PATRIC	male	deceased		progression (liquid tumours)	21	21	22	28	C91.0				202	202			
+DO222270	ALL-US		TARGET-10-PASWUH	female	alive		progression (liquid tumours)	10	10	15	33	C91.0				1782	1782			
+DO222204	ALL-US		TARGET-10-PAPHMI	male				3	3	4	668	C91.0				668	365			
+DO222202	ALL-US		TARGET-10-PAPHLJ	female	alive			13	13	21	3157	C91.0				3157	3157			
+DO222200	ALL-US		TARGET-10-PAPHLA	male	alive			5	5	9	724	C91.0				1626	1626			
+DO222209	ALL-US		TARGET-10-PAPHTZ	male	alive	relapse	progression (liquid tumours)	2	2	9	839	C91.0				2813	2813			
+DO222207	ALL-US		TARGET-10-PAPHRT	male			progression (liquid tumours)	18	18	24	28	C91.0				2150	2190			
+DO222208	ALL-US		TARGET-10-PAPHSV	female	alive			3	3	11	3031	C91.0				3031	3031			
+DO222205	ALL-US		TARGET-10-PAPHNS	male	deceased			11	11	12	390	C91.0				390	390			
+DO222206	ALL-US		TARGET-10-PAPHPX	female	alive			5	5	13	3218	C91.0				3218	3218			
+DO222214	ALL-US		TARGET-10-PAPHYH	male				19	19	23	1478	C91.0				1478	1460			
+DO222215	ALL-US		TARGET-10-PAPHYN	male	alive			6	6	14	3012	C91.0				3012	3012			
+DO222212	ALL-US		TARGET-10-PAPHWJ	male	alive			12	12	20	2998	C91.0				2998	2998			
+DO222213	ALL-US		TARGET-10-PAPHXH	female	deceased	relapse	progression (liquid tumours)	13	13	14	329	C91.0				613	613			
+DO222210	ALL-US		TARGET-10-PAPHVX	female	alive	relapse	progression (liquid tumours)	19	19	26	1264	C91.0				2840	2840			
+DO222211	ALL-US		TARGET-10-PAPHWH	male			progression (liquid tumours)	14	14	18	32	C91.0				1634	1460			
+DO222218	ALL-US		TARGET-10-PAPIAH	male	alive			4	4	12	3142	C91.0				3142	3142			
+DO222219	ALL-US		TARGET-10-PAPIBW	male				17	17	24	2715	C91.0				2715	2555			
+DO222216	ALL-US		TARGET-10-PAPHYY	female				2	2	9	2721	C91.0				2721	2555			
+DO222217	ALL-US		TARGET-10-PAPHZT	female	alive			2	2	10	3077	C91.0				3077	3077			
+DO222184	ALL-US		TARGET-10-PAPGRA	female				3	3	8	2035	C91.0				2035	1825			
+DO222185	ALL-US		TARGET-10-PAPGRM	female	alive			6	6	14	2899	C91.0				2899	2899			
+DO222182	ALL-US		TARGET-10-PAPGPW	male				7	7	14	2660	C91.0				2660	2555			
+DO222183	ALL-US		TARGET-10-PAPGPZ	female				12	12	19	2527	C91.0				2527	2555			
+DO222180	ALL-US		TARGET-10-PAPGNK	male	alive			1	1	9	3196	C91.0				3196	3196			
+DO222181	ALL-US		TARGET-10-PAPGPJ	male	alive			3	3	11	3093	C91.0				3093	3093			
+DO222188	ALL-US		TARGET-10-PAPGZL	male	alive			16	16	24	3143	C91.0				3143	3143			
+DO222189	ALL-US		TARGET-10-PAPHAG	female	deceased	relapse	progression (liquid tumours)	14	14	18	1142	C91.0				1604	1604			
+DO222186	ALL-US		TARGET-10-PAPGRZ	female	alive			3	3	9	2232	C91.0				2232	2232			
+DO222187	ALL-US		TARGET-10-PAPGXB	female				11	11	12	492	C91.0				492	365			
+DO222195	ALL-US		TARGET-10-PAPHHE	female	alive			5	5	13	3038	C91.0				3038	3038			
+DO222196	ALL-US		TARGET-10-PAPHHF	female				14	14	18	1541	C91.0				1541	1460			
+DO222193	ALL-US		TARGET-10-PAPHDH	female	alive			17	17	24	2854	C91.0				2854	2854			
+DO222194	ALL-US		TARGET-10-PAPHEV	male	alive			2	2	10	3073	C91.0				3073	3073			
+DO222191	ALL-US		TARGET-10-PAPHCD	male	alive			10	10	18	3030	C91.0				3030	3030			
+DO222190	ALL-US		TARGET-10-PAPHBN	female	alive			2	2	10	3045	C91.0				3045	3045			
+DO222198	ALL-US		TARGET-10-PAPHJS	male				15	15	21	2426	C91.0				2426	2190			
+DO196	ALL-US		TARGET-10-PALJAM	female	alive	relapse	progression (liquid tumours)	13	13	25	1864	C91.0				4623	4623			
+DO194	ALL-US		TARGET-10-PALIYD	female	alive			11	11	23	4704	C91.0				4704	4704			
+DO198	ALL-US		TARGET-10-PALJCF	female	alive			3	3	15	4671	C91.0				4671	4671			
+DO184	ALL-US		TARGET-10-PALHIW	male	alive	relapse	progression (liquid tumours)	17	17	29	1137	C91.0				4512	4512			
+DO182	ALL-US		TARGET-10-PALGZR	male				15	15	19	1329	C91.0				1329	1460			
+DO188	ALL-US		TARGET-10-PALIBN	male	deceased	relapse	progression (liquid tumours)	14	14	16	569	C91.0				1041	1041			
+DO186	ALL-US		TARGET-10-PALHUG	male	alive			13	13	25	4485	C91.0				4485	4485			
+DO192	ALL-US		TARGET-10-PALIYC	female	deceased	relapse	progression (liquid tumours)	18	18	18	51	C91.0				203	203			
+DO190	ALL-US		TARGET-10-PALIEN	female				19	19	24	1950	C91.0				1950	1825			
+DO174	ALL-US		TARGET-10-PALFZF	female	deceased	relapse	progression (liquid tumours)	1	1	4	274	C91.0				796	796			
+DO172	ALL-US		TARGET-10-PALFWK	female	alive			13	13	19	1997	C91.0				1997	1997			
+DO178	ALL-US		TARGET-10-PALGWT	male	alive			2	2	11	3266	C91.0				3266	3266			
+DO176	ALL-US		TARGET-10-PALGAJ	male	deceased	relapse	progression (liquid tumours)	2	2	5	609	C91.0				792	792			
+DO180	ALL-US		TARGET-10-PALGXA	female				14	14	21	2328	C91.0				2328	2555			
+DO162	ALL-US		TARGET-10-PALETF	female	deceased	relapse	progression (liquid tumours)	8	8	10	650	C91.0				768	768			
+DO163	ALL-US		TARGET-10-PALFBA	male	deceased	relapse	progression (liquid tumours)	11	11	18	1604	C91.0				2299	2299			
+DO160	ALL-US		TARGET-10-PALECK	female	alive			1	1	14	4624	C91.0				4624	4624			
+DO161	ALL-US		TARGET-10-PALESZ	male	alive			5	5	18	4694	C91.0				4694	4694			
+DO166	ALL-US		TARGET-10-PALFHL	male	alive			13	13	26	4457	C91.0				4457	4457			
+DO164	ALL-US		TARGET-10-PALFBU	male				15	15	24	3156	C91.0				3156	3285			
+DO165	ALL-US		TARGET-10-PALFGE	male	alive	relapse	progression (liquid tumours)	4	4	16	1017	C91.0				4404	4404			
+DO168	ALL-US		TARGET-10-PALFKB	male		relapse	progression (liquid tumours)	5	5	10	1622	C91.0				1653	1825			
+DO169	ALL-US		TARGET-10-PALFKF	male	deceased	relapse	progression (liquid tumours)	18	18	19	334	C91.0				379	379			
+DO170	ALL-US		TARGET-10-PALFNT	male	deceased	relapse	progression (liquid tumours)	13	13	20	1400	C91.0				2586	2586			
+DO152	ALL-US		TARGET-10-PALDBN	male	alive			13	13	26	4669	C91.0				4669	4669			
+DO150	ALL-US		TARGET-10-PALCTA	female	alive			4	4	17	4648	C91.0				4648	4648			
+DO156	ALL-US		TARGET-10-PALDHH	male	deceased	relapse	progression (liquid tumours)	17	17	23	505	C91.0				1996	1996			
+DO154	ALL-US		TARGET-10-PALDGI	male				13	13	22	3184	C91.0				3184	3285			
+DO158	ALL-US		TARGET-10-PALDZA	male				16	16	21	1618	C91.0				1618	1825			
+DO140	ALL-US		TARGET-10-PALBLX	male	alive			18	18	31	4626	C91.0				4626	4626			
+DO144	ALL-US		TARGET-10-PALCBE	male	alive	relapse	progression (liquid tumours)	2	2	8	445	C91.0				2187	2187			
+DO142	ALL-US		TARGET-10-PALCAZ	male				13	13	19	2263	C91.0				2263	2190			
+DO148	ALL-US		TARGET-10-PALCJJ	male		relapse	progression (liquid tumours)	17	17	25	1604	C91.0				2844	2920			
+DO146	ALL-US		TARGET-10-PALCDL	male				2	2	13	3807	C91.0				3807	4015			
+DO130	ALL-US		TARGET-10-PALAZR	female	alive			16	16	29	4521	C91.0				4521	4521			
+DO134	ALL-US		TARGET-10-PALBBU	male				14	14	20	2284	C91.0				2284	2190			
+DO132	ALL-US		TARGET-10-PALAZT	male	alive			3	3	16	4742	C91.0				4742	4742			
+DO138	ALL-US		TARGET-10-PALBLM	female				16	16	21	1625	C91.0				1625	1825			
+DO136	ALL-US		TARGET-10-PALBFZ	female				6	6	17	3968	C91.0				3968	4015			
+DO122	ALL-US		TARGET-10-PALASH	female	alive			6	6	18	4518	C91.0				4518	4518			
+DO120	ALL-US		TARGET-10-PALALW	female	alive			2	2	15	4794	C91.0				4794	4794			
+DO126	ALL-US		TARGET-10-PALAVV	male	alive			13	13	25	4499	C91.0				4499	4499			
+DO124	ALL-US		TARGET-10-PALAVI	female		relapse	progression (liquid tumours)	12	12	21	1779	C91.0				3082	3285			
+DO128	ALL-US		TARGET-10-PALAWA	female	deceased	relapse	progression (liquid tumours)	3	3	5	279	C91.0				508	508			
+DO112	ALL-US		TARGET-10-PAKYEP	male		relapse	progression (liquid tumours)	3	3	10	464	C91.0				2463	2555			
+DO110	ALL-US		TARGET-10-PAKYEN	male				7	7	13	2375	C91.0				2375	2190			
+DO116	ALL-US		TARGET-10-PAKYNG	male				11	11	18	2408	C91.0				2408	2555			
+DO114	ALL-US		TARGET-10-PAKYKZ	female		relapse	progression (liquid tumours)	2	2	14	1134	C91.0				4262	4380			
+DO118	ALL-US		TARGET-10-PAKZXD	male	alive	relapse	progression (liquid tumours)	16	16	29	1382	C91.0				4634	4634			
+DO100	ALL-US		TARGET-10-PAKXDI	male	alive	relapse	progression (liquid tumours)	2	2	15	550	C91.0				4718	4718			
+DO104	ALL-US		TARGET-10-PAKXZT	female				16	16	23	2727	C91.0				2727	2555			
+DO102	ALL-US		TARGET-10-PAKXIM	female				4	4	14	3706	C91.0				3706	3650			
+DO108	ALL-US		TARGET-10-PAKYEI	female	deceased	relapse	progression (liquid tumours)	8	8	13	1399	C91.0				1814	1814			
+DO106	ALL-US		TARGET-10-PAKYBE	male	alive			2	2	15	4631	C91.0				4631	4631			
+DO294	ALL-US		TARGET-10-PALUVW	male				13	13	19	2230	C91.0				2230	2190			
+DO292	ALL-US		TARGET-10-PALUTW	male				15	15	25	3536	C91.0				3536	3650			
+DO298	ALL-US		TARGET-10-PALVDI	female	deceased	relapse	progression (liquid tumours)	4	4	10	1245	C91.0				2012	2012			
+DO296	ALL-US		TARGET-10-PALVBB	female	deceased			17	17	17	102	C91.0				102	102			
+DO284	ALL-US		TARGET-10-PALULV	male	deceased			16	16	17	313	C91.0				313	313			
+DO282	ALL-US		TARGET-10-PALUAH	male	deceased	relapse	progression (liquid tumours)	2	2	3	400	C91.0				476	476			
+DO288	ALL-US		TARGET-10-PALUNK	male	alive	relapse	progression (liquid tumours)	12	12	24	539	C91.0				4440	4440			
+DO286	ALL-US		TARGET-10-PALULW	male	alive	relapse	progression (liquid tumours)	2	2	14	1063	C91.0				4269	4269			
+DO290	ALL-US		TARGET-10-PALURE	male	deceased	relapse	progression (liquid tumours)	15	15	17	461	C91.0				734	734			
+DO272	ALL-US		TARGET-10-PALTAG	male				14	14	19	1695	C91.0				1695	1825			
+DO270	ALL-US		TARGET-10-PALSXP	male	alive			13	13	25	4238	C91.0				4238	4238			
+DO276	ALL-US		TARGET-10-PALTVZ	male				12	12	23	4063	C91.0				4063	4015			
+DO274	ALL-US		TARGET-10-PALTIC	male	alive			6	6	18	4517	C91.0				4517	4517			
+DO278	ALL-US		TARGET-10-PALTWS	male				14	14	21	2700	C91.0				2700	2555			
+DO280	ALL-US		TARGET-10-PALUAG	female	alive			3	3	15	4373	C91.0				4373	4373			
+DO262	ALL-US		TARGET-10-PALRUW	male	deceased			1	1	2	360	C91.0				360	360			
+DO260	ALL-US		TARGET-10-PALRGJ	female	alive			3	3	15	4438	C91.0				4438	4438			
+DO266	ALL-US		TARGET-10-PALSJC	male	alive			14	14	26	4559	C91.0				4559	4559			
+DO264	ALL-US		TARGET-10-PALRXE	male	alive			12	12	24	4310	C91.0				4310	4310			
+DO268	ALL-US		TARGET-10-PALSUM	male				15	15	24	3216	C91.0				3216	3285			
+DO250	ALL-US		TARGET-10-PALNWA	male				1	1	9	3118	C91.0				3118	2920			
+DO254	ALL-US		TARGET-10-PALPJH	male				17	17	24	2554	C91.0				2554	2555			
+DO252	ALL-US		TARGET-10-PALPEM	male		relapse	progression (liquid tumours)	15	15	26	948	C91.0				4059	4015			
+DO258	ALL-US		TARGET-10-PALRFV	male	alive	relapse	progression (liquid tumours)	17	17	29	887	C91.0				4339	4339			
+DO256	ALL-US		TARGET-10-PALPKP	male				2	2	11	3302	C91.0				3302	3285			
+DO240	ALL-US		TARGET-10-PALMTB	female				4	4	11	2808	C91.0				2808	2555			
+DO244	ALL-US		TARGET-10-PALNGV	male				17	17	22	2061	C91.0				2061	1825			
+DO242	ALL-US		TARGET-10-PALNGC	male				14	14	20	2365	C91.0				2365	2190			
+DO248	ALL-US		TARGET-10-PALNTL	female	deceased	relapse	progression (liquid tumours)	2	2	3	183	C91.0				246	246			
+DO246	ALL-US		TARGET-10-PALNTB	female	deceased	relapse	progression (liquid tumours)	9	9	13	1023	C91.0				1415	1415			
+DO232	ALL-US		TARGET-10-PALMBG	male				15	15	22	2612	C91.0				2612	2555			
+DO230	ALL-US		TARGET-10-PALLWU	female		relapse	progression (liquid tumours)	11	11	22	147	C91.0				4239	4015			
+DO236	ALL-US		TARGET-10-PALMCJ	male	deceased	relapse	progression (liquid tumours)	14	14	19	1234	C91.0				1771	1771			
+DO234	ALL-US		TARGET-10-PALMBV	male	alive			4	4	16	4523	C91.0				4523	4523			
+DO238	ALL-US		TARGET-10-PALMKZ	male	deceased	relapse	progression (liquid tumours)	16	16	24	2903	C91.0				2903	2903			
+DO222	ALL-US		TARGET-10-PALLGE	female	alive			1	1	13	4582	C91.0				4582	4582			
+DO220	ALL-US		TARGET-10-PALLAX	male				17	17	21	1723	C91.0				1723	1460			
+DO226	ALL-US		TARGET-10-PALLLW	male	alive			14	14	24	3802	C91.0				3802	3802			
+DO224	ALL-US		TARGET-10-PALLGU	female				3	3	12	3388	C91.0				3388	3285			
+DO228	ALL-US		TARGET-10-PALLSD	male	deceased	relapse	progression (liquid tumours)	14	14	22	687	C91.0				3060	3060			
+DO210	ALL-US		TARGET-10-PALKTY	female	deceased	relapse	progression (liquid tumours)	6	6	10	1310	C91.0				1507	1507			
+DO214	ALL-US		TARGET-10-PALKWV	female	alive			17	17	21	1691	C91.0				1691	1691			
+DO212	ALL-US		TARGET-10-PALKWG	female				3	3	10	2792	C91.0				2792	2555			
+DO218	ALL-US		TARGET-10-PALLAD	female	alive			3	3	15	4449	C91.0				4449	4449			
+DO216	ALL-US		TARGET-10-PALKYT	female		relapse	progression (liquid tumours)	11	11	20	466	C91.0				3280	3285			
+DO200	ALL-US		TARGET-10-PALJDL	male	alive			3	3	14	4330	C91.0				4330	4330			
+DO204	ALL-US		TARGET-10-PALKDL	female				17	17	27	3889	C91.0				3889	3650			
+DO202	ALL-US		TARGET-10-PALJKB	male				10	10	15	2120	C91.0				2120	1825			
+DO208	ALL-US		TARGET-10-PALKMM	male	deceased	relapse	progression (liquid tumours)	13	13	16	515	C91.0				1037	1037			
+DO206	ALL-US		TARGET-10-PALKDM	female				20	20	28	3189	C91.0				3189	2920			
+DO221569	ALL-US		TARGET-10-PAMXGS	male	alive			4	4	14	3711	C91.0				3711	3711			
+DO221568	ALL-US		TARGET-10-PARNFY	female	alive			12	12	19	2445	C91.0				2445	2445			
+DO221576	ALL-US		TARGET-10-PAMYWX	female				14	14	21	2603	C91.0				2603	2555			
+DO221577	ALL-US		TARGET-10-PAMYYP	female	alive			2	2	12	3751	C91.0				3751	3751			
+DO221574	ALL-US		TARGET-10-PAMYTW	male				12	12	19	2703	C91.0				2703	2555			
+DO221575	ALL-US		TARGET-10-PAMYVH	female	alive			15	15	23	2962	C91.0				2962	2962			
+DO221572	ALL-US		TARGET-10-PAMYDV	female	alive			1	1	11	3754	C91.0				3754	3754			
+DO221573	ALL-US		TARGET-10-PAMYNW	male	alive			15	15	25	3853	C91.0				3853	3853			
+DO221570	ALL-US		TARGET-10-PAMXHJ	male	alive			6	6	17		C91.0				4089	4089			
+DO221571	ALL-US		TARGET-10-PAMYCC	female	alive			12	12	21	3556	C91.0				3556	3556			
+DO221579	ALL-US		TARGET-10-PAMZHB	male	alive			3	3	13	3584	C91.0				3584	3584			
+DO221580	ALL-US		TARGET-10-PANAKF	male	alive			11	11	21	3725	C91.0				3725	3725			
+DO221587	ALL-US		TARGET-10-PANCZY	male	alive			16	16	26	3819	C91.0				3819	3819			
+DO221588	ALL-US		TARGET-10-PANDBX	female	deceased	relapse	progression (liquid tumours)	4	4	9	801	C91.0				1719	1719			
+DO221586	ALL-US		TARGET-10-PANBWB	female				12	12	17	1904	C91.0				1904	1825			
+DO221583	ALL-US		TARGET-10-PANAYT	female				11	11	18	2546	C91.0				2546	2555			
+DO221584	ALL-US		TARGET-10-PANBPG	male				14	14	21	2720	C91.0				2720	2555			
+DO221581	ALL-US		TARGET-10-PANAWL	female	alive			19	19	28	3482	C91.0				3482	3482			
+DO221582	ALL-US		TARGET-10-PANAYM	male				6	6	12	2177	C91.0				2177	2190			
+DO221589	ALL-US		TARGET-10-PANDJJ	male	alive			2	2	12	3717	C91.0				3717	3717			
+DO221590	ALL-US		TARGET-10-PANDVD	male	alive	relapse	progression (liquid tumours)	4	4	14	1372	C91.0				3741	3741			
+DO394	ALL-US		TARGET-10-PAMESL	male	alive			16	16	27	2640	C91.0				4284	4284			
+DO392	ALL-US		TARGET-10-PAMEIM	male		relapse	progression (liquid tumours)	14	14	21	1191	C91.0				2801	2555			
+DO398	ALL-US		TARGET-10-PAMFFL	female	alive			15	15	23	3104	C91.0				3104	3104			
+DO396	ALL-US		TARGET-10-PAMEYI	male	alive	relapse	progression (liquid tumours)	16	16	27	1574	C91.0				4025	4025			
+DO221598	ALL-US		TARGET-10-PANEVA	male				4	4	13	3067	C91.0				3067	3285			
+DO221599	ALL-US		TARGET-10-PANEZJ	female	alive			12	12	22	3642	C91.0				3642	3642			
+DO221596	ALL-US		TARGET-10-PANERJ	female				3	3	10	2609	C91.0				2609	2555			
+DO221594	ALL-US		TARGET-10-PANEPB	male	alive			2	2	12	3651	C91.0				3651	3651			
+DO221592	ALL-US		TARGET-10-PANEJT	male	alive			11	11	21	3776	C91.0				3776	3776			
+DO382	ALL-US		TARGET-10-PAMDXD	male	deceased			13	13	13	210	C91.0				210	210			
+DO380	ALL-US		TARGET-10-PAMDVB	male				13	13	17	1667	C91.0				1667	1460			
+DO386	ALL-US		TARGET-10-PAMEEG	female				17	17	26	3248	C91.0				3248	3285			
+DO384	ALL-US		TARGET-10-PAMEEF	male	alive			16	16	25	3567	C91.0				3567	3567			
+DO388	ALL-US		TARGET-10-PAMEEK	male				14	14	14	60	C91.0				60	0			
+DO390	ALL-US		TARGET-10-PAMEEV	male	alive			18	18	29	4025	C91.0				4025	4025			
+DO372	ALL-US		TARGET-10-PAMCTK	male	alive	relapse	progression (liquid tumours)	17	17	28	463	C91.0				4132	4132			
+DO370	ALL-US		TARGET-10-PAMCRI	female				11	11	18	2592	C91.0				2592	2555			
+DO376	ALL-US		TARGET-10-PAMDKS	female	deceased			13	13	13	69	C91.0				69	69			
+DO374	ALL-US		TARGET-10-PAMDJV	male	alive			15	15	26	4230	C91.0				4230	4230			
+DO378	ALL-US		TARGET-10-PAMDRM	male	deceased	relapse	progression (liquid tumours)	8	8	11	994	C91.0				1213	1213			
+DO360	ALL-US		TARGET-10-PAMCHE	male	alive			2	2	13	4004	C91.0				4004	4004			
+DO364	ALL-US		TARGET-10-PAMCLG	male				2	2	10	2944	C91.0				2944	2920			
+DO362	ALL-US		TARGET-10-PAMCKJ	male	alive			20	20	31	4072	C91.0				4072	4072			
+DO368	ALL-US		TARGET-10-PAMCPG	female				16	16	19	1214	C91.0				1214	1095			
+DO366	ALL-US		TARGET-10-PAMCMK	female	alive			2	2	9	2801	C91.0				2801	2801			
+DO350	ALL-US		TARGET-10-PAMBRP	male	alive			15	15	22	2791	C91.0				2791	2791			
+DO354	ALL-US		TARGET-10-PAMBWU	male				14	14	17	1279	C91.0				1279	1095			
+DO352	ALL-US		TARGET-10-PAMBWL	female	alive	relapse	progression (liquid tumours)	4	4	15	1143	C91.0				4028	4028			
+DO358	ALL-US		TARGET-10-PAMCGY	male				14	14	21	2721	C91.0				2721	2555			
+DO356	ALL-US		TARGET-10-PAMCEZ	male				3	3	10	2714	C91.0				2714	2555			
+DO342	ALL-US		TARGET-10-PAMBCT	male				18	18	27	3150	C91.0				3150	3285			
+DO340	ALL-US		TARGET-10-PAMAYA	male	alive	relapse	progression (liquid tumours)	4	4	16	477	C91.0				4277	4277			
+DO346	ALL-US		TARGET-10-PAMBFS	male		relapse	progression (liquid tumours)	14	14	21	1362	C91.0				2195	2555			
+DO344	ALL-US		TARGET-10-PAMBDA	female				14	14	23	3059	C91.0				3059	3285			
+DO348	ALL-US		TARGET-10-PAMBNA	male		relapse	progression (liquid tumours)	17	17	24	1403	C91.0				2571	2555			
+DO332	ALL-US		TARGET-10-PALZVV	male	deceased	relapse	progression (liquid tumours)	16	16	18	447	C91.0				590	590			
+DO330	ALL-US		TARGET-10-PALZRM	male				17	17	21	1451	C91.0				1451	1460			
+DO336	ALL-US		TARGET-10-PAMABV	male	alive			6	6	18	4149	C91.0				4149	4149			
+DO334	ALL-US		TARGET-10-PALZZG	male	deceased	relapse	progression (liquid tumours)	8	8	11	902	C91.0				982	982			
+DO338	ALL-US		TARGET-10-PAMANN	female	alive			3	3	7	1379	C91.0				1379	1379			
+DO320	ALL-US		TARGET-10-PALYMX	male	alive			1	1	13	4298	C91.0				4298	4298			
+DO324	ALL-US		TARGET-10-PALYXL	female	alive			15	15	27	4354	C91.0				4354	4354			
+DO322	ALL-US		TARGET-10-PALYSM	male	deceased	relapse	progression (liquid tumours)	17	17	20	795	C91.0				827	827			
+DO328	ALL-US		TARGET-10-PALZJI	female	deceased	relapse	progression (liquid tumours)	12	12	13	171	C91.0				243	243			
+DO326	ALL-US		TARGET-10-PALYXW	male				17	17	27	3535	C91.0				3535	3650			
+DO310	ALL-US		TARGET-10-PALWRE	male				14	14	24	3653	C91.0				3653	3650			
+DO314	ALL-US		TARGET-10-PALXAM	female	alive			9	9	21	4260	C91.0				4260	4260			
+DO312	ALL-US		TARGET-10-PALWVU	male	deceased			14	14	22	2396	C91.0				2919	2919			
+DO318	ALL-US		TARGET-10-PALYDP	female	alive			18	18	21	1050	C91.0				1050	1050			
+DO316	ALL-US		TARGET-10-PALXXU	male	alive			12	12	23	4042	C91.0				4042	4042			
+DO302	ALL-US		TARGET-10-PALVKJ	female				19	19	29	3681	C91.0				3681	3650			
+DO300	ALL-US		TARGET-10-PALVJA	male	deceased			5	5	17	4151	C91.0				4151	4151			
+DO306	ALL-US		TARGET-10-PALWAF	female				12	12	15	984	C91.0				984	1095			
+DO304	ALL-US		TARGET-10-PALVUR	male	deceased	relapse	progression (liquid tumours)	17	17	18	166	C91.0				215	215			
+DO308	ALL-US		TARGET-10-PALWNJ	male	deceased	relapse	progression (liquid tumours)	18	18	21	843	C91.0				1121	1121			
+DO231058	ALL-US		TARGET-10-PATSLH	male	alive			2	2	7		C91.0				1807	1807			
+DO231052	ALL-US		TARGET-10-PATSIL	male	alive			16	16	21		C91.0				2030	2030			
+DO231054	ALL-US		TARGET-10-PATSIY	male	alive		progression (liquid tumours)	9	9	15	1721	C91.0				2090	2090			
+DO231060	ALL-US		TARGET-10-PATTHR	male	alive			16	16	22		C91.0				2041	2041			
+DO231069	ALL-US		TARGET-10-PATWIJ	male	alive			14	14	20		C91.0				1941	1941			
+DO231063	ALL-US		TARGET-10-PATVDA	female	alive			2	2	2		C91.0				42	42			
+DO231066	ALL-US		TARGET-10-PATWHB	female	alive			11	11	16		C91.0				1914	1914			
+DO231073	ALL-US		TARGET-10-PATWJU	male	alive			6	6	11		C91.0				2013	2013			
+DO231079	ALL-US		TARGET-10-PATWXC	male	alive			15	15	20		C91.0				1839	1839			
+DO231077	ALL-US		TARGET-10-PATWNL	female				2	2	2		C91.0				0	0			
+DO231082	ALL-US		TARGET-10-PATWYL	male	alive			15	15	20		C91.0				1838	1838			
+DO231089	ALL-US		TARGET-10-PATXKW	male	alive			18	18	22		C91.0				1374	1374			
+DO231085	ALL-US		TARGET-10-PATWYZ	male	alive			4	4	9		C91.0				1973	1973			
+DO231087	ALL-US		TARGET-10-PATXAL	male	alive			15	15	16		C91.0				235	235			
+DO231094	ALL-US		TARGET-10-PATXNK	male	alive			9	9	15		C91.0				1865	1865			
+DO231097	ALL-US		TARGET-10-PATXNR	female	alive			17	17	22		C91.0				1869	1869			
+DO221653	ALL-US		TARGET-10-PANRSI	female	alive			2	2	10	3126	C91.0				3126	3126			
+DO221654	ALL-US		TARGET-10-PANRSM	male				13	13	17	1664	C91.0				1664	1460			
+DO221652	ALL-US		TARGET-10-PANRPM	male	alive			19	19	28	3493	C91.0				3493	3493			
+DO221650	ALL-US		TARGET-10-PANRJL	female	alive			3	3	12	3436	C91.0				3436	3436			
+DO221659	ALL-US		TARGET-10-PANRXJ	female	alive			4	4	13	3360	C91.0				3360	3360			
+DO221657	ALL-US		TARGET-10-PANRWW	male	alive			1	1	10	3452	C91.0				3452	3452			
+DO221658	ALL-US		TARGET-10-PANRWZ	female				5	5	11	2327	C91.0				2327	2190			
+DO221655	ALL-US		TARGET-10-PANRSR	male	alive	relapse	progression (liquid tumours)	16	16	25	2164	C91.0				3455	3455			
+DO221656	ALL-US		TARGET-10-PANRWG	male	alive			3	3	13		C91.0				3769	3769			
+DO221664	ALL-US		TARGET-10-PANSKJ	male	alive	relapse	progression (liquid tumours)	12	12	21	800	C91.0				3339	3339			
+DO221665	ALL-US		TARGET-10-PANSKK	female	alive			4	4	13	3287	C91.0				3287	3287			
+DO221662	ALL-US		TARGET-10-PANSFD	male	deceased	relapse	progression (liquid tumours)	5	5	6	341	C91.0				561	561			
+DO221663	ALL-US		TARGET-10-PANSKH	female	alive			16	16	24	3110	C91.0				3110	3110			
+DO221660	ALL-US		TARGET-10-PANRXM	male	alive			4	4	13	3531	C91.0				3531	3531			
+DO221661	ALL-US		TARGET-10-PANSBK	female				5	5	8	1179	C91.0				1179	1095			
+DO221668	ALL-US		TARGET-10-PANSTB	female	deceased			4	4	7	848	C91.0				1063	1063			
+DO221669	ALL-US		TARGET-10-PANSUF	female				5	5	10	1715	C91.0				1715	1825			
+DO221667	ALL-US		TARGET-10-PANSSH	male	alive			17	17	26	3455	C91.0				3455	3455			
+DO221675	ALL-US		TARGET-10-PANTHU	male				14	14	21	2678	C91.0				2678	2555			
+DO221673	ALL-US		TARGET-10-PANSZD	male	alive			18	18	27	3181	C91.0				3181	3181			
+DO221674	ALL-US		TARGET-10-PANTEN	male	alive			4	4	13	3464	C91.0				3464	3464			
+DO221671	ALL-US		TARGET-10-PANSWH	male				10	10	17	2685	C91.0				2685	2555			
+DO221672	ALL-US		TARGET-10-PANSXG	female	alive			8	8	18		C91.0				3830	3830			
+DO221670	ALL-US		TARGET-10-PANSUN	male	deceased	relapse	progression (liquid tumours)	17	17	21	876	C91.0				1471	1471			
+DO221679	ALL-US		TARGET-10-PANTXE	female	alive			13	13	22	3317	C91.0				3317	3317			
+DO221677	ALL-US		TARGET-10-PANTSN	male	alive			3	3	12	3162	C91.0				3162	3162			
+DO221678	ALL-US		TARGET-10-PANTTR	male	alive			14	14	23	3216	C91.0				3216	3216			
+DO231009	ALL-US		TARGET-10-PATMXN	male	alive			15	15	18		C91.0				1191	1191			
+DO231006	ALL-US		TARGET-10-PATMVH	male	alive			18	18	24		C91.0				2079	2079			
+DO221686	ALL-US		TARGET-10-PANUIW	male				15	15	18	1229	C91.0				1229	1095			
+DO221687	ALL-US		TARGET-10-PANUKM	female	alive			11	11	19	3061	C91.0				3061	3061			
+DO221684	ALL-US		TARGET-10-PANUIN	male	alive			10	10	19	3179	C91.0				3179	3179			
+DO221682	ALL-US		TARGET-10-PANTZD	male				15	15	23	2985	C91.0				2985	2920			
+DO221681	ALL-US		TARGET-10-PANTXK	male				16	16	22	2092	C91.0				2092	2190			
+DO221688	ALL-US		TARGET-10-PANUNW	male	alive			15	15	20	1879	C91.0				1879	1879			
+DO221689	ALL-US		TARGET-10-PANUSR	male		relapse	progression (liquid tumours)	14	14	19	118	C91.0				1812	1825			
+DO231002	ALL-US		TARGET-10-PATMRE	male	alive			7	7	13		C91.0				2099	2099			
+DO231004	ALL-US		TARGET-10-PATMTV	male	alive			11	11	17		C91.0				2179	2179			
+DO231000	ALL-US		TARGET-10-PATMAF	male	alive			16	16	20		C91.0				1469	1469			
+DO221690	ALL-US		TARGET-10-PANUTA	female	alive			17	17	26	3134	C91.0				3134	3134			
+DO231017	ALL-US		TARGET-10-PATNAM	female	alive			2	2	8		C91.0				2156	2156			
+DO231019	ALL-US		TARGET-10-PATNIA	female	alive			7	7	12		C91.0				2153	2153			
+DO221698	ALL-US		TARGET-10-PANTYM	male	deceased			16	16	20	1514	C91.0				1514	1514			
+DO221695	ALL-US		TARGET-10-PANAVL	female	alive			2	2	11	3454	C91.0				3454	3454			
+DO221696	ALL-US		TARGET-10-PANJDT	male	alive			2	2	12	3476	C91.0				3476	3476			
+DO221693	ALL-US		TARGET-10-PANUWV	female	alive			5	5	13	3092	C91.0				3092	3092			
+DO221694	ALL-US		TARGET-10-PANVCR	male	alive	relapse	progression (liquid tumours)	2	2	11	1196	C91.0				3331	3331			
+DO221692	ALL-US		TARGET-10-PANUVT	female				16	16	23	2587	C91.0				2587	2555			
+DO221699	ALL-US		TARGET-10-PAMVYK	female	alive			12	12	19	2636	C91.0				2636	2636			
+DO231012	ALL-US		TARGET-10-PATMYZ	male	alive			12	12	18		C91.0				2108	2108			
+DO231028	ALL-US		TARGET-10-PATPWF	male	alive			2	2	7		C91.0				1925	1925			
+DO231024	ALL-US		TARGET-10-PATPGE	male	alive			20	20	25		C91.0				2009	2009			
+DO231021	ALL-US		TARGET-10-PATPDA	male	alive			2	2	7		C91.0				1815	1815			
+DO231039	ALL-US		TARGET-10-PATRNA	male	alive			2	2	8		C91.0				2079	2079			
+DO231034	ALL-US		TARGET-10-PATRGV	female	deceased		progression (liquid tumours)	2	2	6	128	C91.0				1679	1679			
+DO231037	ALL-US		TARGET-10-PATRHL	male	alive			6	6	12		C91.0				2043	2043			
+DO231030	ALL-US		TARGET-10-PATRAB	female	alive			5	5	11		C91.0				2146	2146			
+DO231045	ALL-US		TARGET-10-PATRXL	male	alive			5	5	10		C91.0				1795	1795			
+DO231048	ALL-US		TARGET-10-PATSDS	male	alive			15	15	21		C91.0				2055	2055			
+DO231042	ALL-US		TARGET-10-PATRUN	male	alive			5	5	5		C91.0				101	101			
+DO221606	ALL-US		TARGET-10-PANGAW	female				12	12	18	2161	C91.0				2161	2190			
+DO221607	ALL-US		TARGET-10-PANGRZ	male	alive			13	13	23	3741	C91.0				3741	3741			
+DO221604	ALL-US		TARGET-10-PANFSE	male	alive			3	3	13	3572	C91.0				3572	3572			
+DO221602	ALL-US		TARGET-10-PANFRW	female	alive			7	7	17	3413	C91.0				3413	3413			
+DO221600	ALL-US		TARGET-10-PANEZV	male	alive			2	2	12	3489	C91.0				3489	3489			
+DO221608	ALL-US		TARGET-10-PANHLV	male	alive			4	4	14	3442	C91.0				3442	3442			
+DO221609	ALL-US		TARGET-10-PANHPA	female	alive			3	3	13	3480	C91.0				3480	3480			
+DO221610	ALL-US		TARGET-10-PANIEB	male	alive			12	12	22	3564	C91.0				3564	3564			
+DO221618	ALL-US		TARGET-10-PANJXI	female	alive			14	14	24	3326	C91.0				3326	3326			
+DO221615	ALL-US		TARGET-10-PANJKW	female	alive			2	2	12	3456	C91.0				3456	3456			
+DO221616	ALL-US		TARGET-10-PANJLJ	male	alive			16	16	26	3552	C91.0				3552	3552			
+DO221613	ALL-US		TARGET-10-PANIUJ	male	deceased	relapse	progression (liquid tumours)	15	15	17	636	C91.0				677	677			
+DO221611	ALL-US		TARGET-10-PANIKK	female				7	7	14	2329	C91.0				2329	2555			
+DO221612	ALL-US		TARGET-10-PANIPE	male				3	3	11	2849	C91.0				2849	2920			
+DO221619	ALL-US		TARGET-10-PANKCZ	female				16	16	23	2371	C91.0				2371	2555			
+DO442	ALL-US		TARGET-10-PAMEUU	male	alive			19	19	29	3778	C91.0				3778	3778			
+DO440	ALL-US		TARGET-10-PAMETS	male				17	17	18	506	C91.0				506	365			
+DO221620	ALL-US		TARGET-10-PANKGB	female				15	15	23	2675	C91.0				2675	2920			
+DO221621	ALL-US		TARGET-10-PANKNK	female	alive			15	15	25	3501	C91.0				3501	3501			
+DO221628	ALL-US		TARGET-10-PANLLB	female	alive			12	12	21	3381	C91.0				3381	3381			
+DO221629	ALL-US		TARGET-10-PANLWD	female				16	16	19	1299	C91.0				1299	1095			
+DO221627	ALL-US		TARGET-10-PANLIC	female	alive			15	15	26		C91.0				4015	4015			
+DO221624	ALL-US		TARGET-10-PANLGM	male	alive	relapse	progression (liquid tumours)	4	4	13	2214	C91.0				3533	3533			
+DO221625	ALL-US		TARGET-10-PANLGV	male	alive			8	8	17	3392	C91.0				3392	3392			
+DO221622	ALL-US		TARGET-10-PANKVL	female	alive			13	13	22	3242	C91.0				3242	3242			
+DO221623	ALL-US		TARGET-10-PANKZE	female				10	10	19	3220	C91.0				3220	3285			
+DO430	ALL-US		TARGET-10-PALUNS	male	alive			5	5	17	4382	C91.0				4382	4382			
+DO221631	ALL-US		TARGET-10-PANMGD	male	alive			16	16	25	3391	C91.0				3391	3391			
+DO434	ALL-US		TARGET-10-PALZRZ	female	deceased	relapse	progression (liquid tumours)	18	18	24	1768	C91.0				1991	1991			
+DO221632	ALL-US		TARGET-10-PANMHB	female	alive			7	7	16	3520	C91.0				3520	3520			
+DO432	ALL-US		TARGET-10-PALVHL	male	alive			3	3	7	1449	C91.0				1449	1449			
+DO221630	ALL-US		TARGET-10-PANMCB	female	alive			3	3	12	3615	C91.0				3615	3615			
+DO438	ALL-US		TARGET-10-PAMCPC	male				15	15	22	2890	C91.0				2890	2555			
+DO436	ALL-US		TARGET-10-PAMCMC	male	deceased	relapse	progression (liquid tumours)	17	17	20	893	C91.0				1150	1150			
+DO221639	ALL-US		TARGET-10-PANNUY	male				16	16	22	2475	C91.0				2475	2190			
+DO221637	ALL-US		TARGET-10-PANNGL	female				13	13	20	2514	C91.0				2514	2555			
+DO221638	ALL-US		TARGET-10-PANNPI	female	alive			8	8	17	3404	C91.0				3404	3404			
+DO221635	ALL-US		TARGET-10-PANMVY	male	alive			9	9	18	3471	C91.0				3471	3471			
+DO221636	ALL-US		TARGET-10-PANMWD	male				14	14	19	2143	C91.0				2143	1825			
+DO221633	ALL-US		TARGET-10-PANMSM	male				13	13	20	2751	C91.0				2751	2555			
+DO221634	ALL-US		TARGET-10-PANMVV	male	alive			11	11	16	1973	C91.0				1973	1973			
+DO420	ALL-US		TARGET-10-PALBHP	female	alive			2	2	15	4614	C91.0				4614	4614			
+DO221643	ALL-US		TARGET-10-PANPEW	male				1	1	5	1613	C91.0				1613	1460			
+DO424	ALL-US		TARGET-10-PALKXE	female	alive			2	2	14	4595	C91.0				4595	4595			
+DO221640	ALL-US		TARGET-10-PANNWH	female	alive			13	13	22	3276	C91.0				3276	3276			
+DO221641	ALL-US		TARGET-10-PANPDG	male	alive			5	5	13	3184	C91.0				3184	3184			
+DO422	ALL-US		TARGET-10-PALKMF	male				17	17	22	1832	C91.0				1832	1825			
+DO428	ALL-US		TARGET-10-PALTJS	male	alive			21	21	33	4439	C91.0				4439	4439			
+DO426	ALL-US		TARGET-10-PALLYD	male				13	13	22	3273	C91.0				3273	3285			
+DO221648	ALL-US		TARGET-10-PANRFG	female	alive			13	13	22	3296	C91.0				3296	3296			
+DO221646	ALL-US		TARGET-10-PANRER	male				13	13	20	2782	C91.0				2782	2555			
+DO221647	ALL-US		TARGET-10-PANRET	male				11	11	19	3046	C91.0				3046	2920			
+DO221644	ALL-US		TARGET-10-PANPVL	female	alive			16	16	25	3498	C91.0				3498	3498			
+DO221645	ALL-US		TARGET-10-PANRBJ	male	alive			3	3	12	3300	C91.0				3300	3300			
+DO412	ALL-US		TARGET-10-PAKWSH	male				17	17	25	2883	C91.0				2883	2920			
+DO410	ALL-US		TARGET-10-PAKTWI	male				13	13	18	1939	C91.0				1939	1825			
+DO416	ALL-US		TARGET-10-PAKXZB	female	deceased	relapse	progression (liquid tumours)	18	18	25	1777	C91.0				2521	2521			
+DO414	ALL-US		TARGET-10-PAKXDY	male	deceased	relapse	progression (liquid tumours)	12	12	16	246	C91.0				1580	1580			
+DO418	ALL-US		TARGET-10-PAKZHH	male				15	15	21	2112	C91.0				2112	2190			
+DO402	ALL-US		TARGET-10-PAKGEE	male	alive			12	12	16	1555	C91.0				1555	1555			
+DO400	ALL-US		TARGET-10-PAKFYA	male	deceased	relapse	progression (liquid tumours)	15	15	21	1376	C91.0				2023	2023			
+DO406	ALL-US		TARGET-10-PAKHNA	male	deceased	relapse	progression (liquid tumours)	11	11	13	510	C91.0				715	715			
+DO404	ALL-US		TARGET-10-PAKGZB	female		relapse	progression (liquid tumours)	13	13	16	376	C91.0				1031	1095			
+DO408	ALL-US		TARGET-10-PAKNPC	female				16	16	24	3273	C91.0				3273	2920			
+DO231172	ALL-US		TARGET-10-PAUBLL	female	alive			7	7	12		C91.0				1914	1914			
+DO231178	ALL-US		TARGET-10-PAUBPY	male	alive			12	12	17		C91.0				1837	1837			
+DO231182	ALL-US		TARGET-10-PAUBRD	male				5	5	5		C91.0				0	0			
+DO231185	ALL-US		TARGET-10-PAUBTC	female	alive		progression (liquid tumours)	2	2	7	119	C91.0				1833	1833			
+DO231194	ALL-US		TARGET-10-PAUCDC	male	alive			17	17	22		C91.0				1867	1867			
+DO231190	ALL-US		TARGET-10-PAUBXP	male	alive			8	8	13		C91.0				1747	1747			
+DO231199	ALL-US		TARGET-10-PAUCDY	male	alive			10	10	15		C91.0				1793	1793			
+DO221774	ALL-US		TARGET-10-PANMEN	female				3	3	6	1226	C91.0				1226	1095			
+DO221772	ALL-US		TARGET-10-PANLYC	female	alive			1	1	10	3472	C91.0				3472	3472			
+DO221770	ALL-US		TARGET-10-PANLWU	male	alive	relapse	progression (liquid tumours)	4	4	13	1466	C91.0				3521	3521			
+DO221778	ALL-US		TARGET-10-PANNKX	male	deceased		progression (liquid tumours)	12	12	16	29	C91.0				1578	1578			
+DO221779	ALL-US		TARGET-10-PANNMG	female	deceased	relapse	progression (liquid tumours)	14	14	14	189	C91.0				252	252			
+DO221776	ALL-US		TARGET-10-PANMZB	male	alive			2	2	11	3389	C91.0				3389	3389			
+DO231109	ALL-US		TARGET-10-PATYJK	male	alive			12	12	18		C91.0				1955	1955			
+DO231105	ALL-US		TARGET-10-PATYCH	male	alive			4	4	9		C91.0				1854	1854			
+DO221785	ALL-US		TARGET-10-PANPDM	female				14	14	19	1946	C91.0				1946	1825			
+DO221786	ALL-US		TARGET-10-PANPNJ	male	alive			18	18	21	1240	C91.0				1240	1240			
+DO221783	ALL-US		TARGET-10-PANNYE	male	alive	relapse	progression (liquid tumours)	6	6	15	909	C91.0				3495	3495			
+DO221784	ALL-US		TARGET-10-PANPAC	female	alive			15	15	23	3216	C91.0				3216	3216			
+DO221781	ALL-US		TARGET-10-PANNSV	female				4	4	9	1831	C91.0				1831	1825			
+DO221789	ALL-US		TARGET-10-PANPSS	male	alive			17	17	26	3393	C91.0				3393	3393			
+DO221787	ALL-US		TARGET-10-PANPNM	female				7	7	10	1234	C91.0				1234	1095			
+DO221788	ALL-US		TARGET-10-PANPRP	female		relapse	progression (liquid tumours)	17	17	24	1147	C91.0				2625	2555			
+DO231100	ALL-US		TARGET-10-PATXSK	male	alive			6	6	12		C91.0				1991	1991			
+DO231119	ALL-US		TARGET-10-PATZFF	female	alive			11	11	16		C91.0				1832	1832			
+DO231115	ALL-US		TARGET-10-PATYWV	male	deceased			8	8	12		C91.0				1649	1649			
+DO221796	ALL-US		TARGET-10-PANRIM	female	alive			2	2	11	3416	C91.0				3416	3416			
+DO221797	ALL-US		TARGET-10-PANRNE	female	alive			3	3	12	3412	C91.0				3412	3412			
+DO221794	ALL-US		TARGET-10-PANRGS	female	alive			3	3	12	3390	C91.0				3390	3390			
+DO221795	ALL-US		TARGET-10-PANRHE	female	alive			12	12	20	3062	C91.0				3062	3062			
+DO221793	ALL-US		TARGET-10-PANRAL	male				2	2	10	2979	C91.0				2979	2920			
+DO221790	ALL-US		TARGET-10-PANPVG	male	alive			14	14	22	3143	C91.0				3143	3143			
+DO221791	ALL-US		TARGET-10-PANPYK	female	alive			9	9	18	3209	C91.0				3209	3209			
+DO221798	ALL-US		TARGET-10-PANRNL	female	alive	relapse	progression (liquid tumours)	9	9	18	1126	C91.0				3425	3425			
+DO221799	ALL-US		TARGET-10-PANRPL	female				12	12	18	2385	C91.0				2385	2190			
+DO231112	ALL-US		TARGET-10-PATYMP	male	alive			18	18	23		C91.0				1759	1759			
+DO231128	ALL-US		TARGET-10-PATZWA	female	alive			10	10	15		C91.0				1863	1863			
+DO231125	ALL-US		TARGET-10-PATZVD	male	alive			4	4	9		C91.0				1908	1908			
+DO231121	ALL-US		TARGET-10-PATZSL	female	alive			10	10	15		C91.0				1897	1897			
+DO231137	ALL-US		TARGET-10-PAUACG	male	alive			5	5	10		C91.0				1777	1777			
+DO231133	ALL-US		TARGET-10-PATZYR	male	alive			9	9	14		C91.0				1903	1903			
+DO231131	ALL-US		TARGET-10-PATZYC	male	alive			4	4	9		C91.0				1882	1882			
+DO231146	ALL-US		TARGET-10-PAUAJA	male	alive			12	12	17		C91.0				1875	1875			
+DO231142	ALL-US		TARGET-10-PAUAFN	male	alive			4	4	9		C91.0				1854	1854			
+DO231157	ALL-US		TARGET-10-PAUAZV	male	alive			8	8	13		C91.0				1807	1807			
+DO231151	ALL-US		TARGET-10-PAUAYB	male	alive			18	18	23		C91.0				1834	1834			
+DO231167	ALL-US		TARGET-10-PAUBCT	male	alive			13	13	18		C91.0				1845	1845			
+DO231163	ALL-US		TARGET-10-PAUBCB	male	alive			15	15	21		C91.0				1870	1870			
+DO221705	ALL-US		TARGET-10-PAMYWB	female				18	18	24	2325	C91.0				2325	2190			
+DO221706	ALL-US		TARGET-10-PAMYWC	male				1	1	6	1826	C91.0				1826	1825			
+DO221703	ALL-US		TARGET-10-PAMYLL	male	alive			2	2	12	3765	C91.0				3765	3765			
+DO221704	ALL-US		TARGET-10-PAMYSA	female	alive			6	6	16	3639	C91.0				3639	3639			
+DO221701	ALL-US		TARGET-10-PAMXXP	male				4	4	12	3114	C91.0				3114	2920			
+DO221702	ALL-US		TARGET-10-PAMYEJ	male				14	14	20	2402	C91.0				2402	2190			
+DO221709	ALL-US		TARGET-10-PAMZLK	male				2	2	11	3373	C91.0				3373	3285			
+DO221708	ALL-US		TARGET-10-PAMZKV	male	alive			12	12	21	3529	C91.0				3529	3529			
+DO221716	ALL-US		TARGET-10-PANANL	female				11	11	15	1630	C91.0				1630	1460			
+DO221715	ALL-US		TARGET-10-PANALD	male	alive			3	3	13	3609	C91.0				3609	3609			
+DO221712	ALL-US		TARGET-10-PANAEN	male	alive			3	3	13	3676	C91.0				3676	3676			
+DO221713	ALL-US		TARGET-10-PANAKL	male				17	17	25	2821	C91.0				2821	2920			
+DO221710	ALL-US		TARGET-10-PAMZLS	male				4	4	11	2662	C91.0				2662	2555			
+DO221711	ALL-US		TARGET-10-PAMZTU	male				10	10	18	3154	C91.0				3154	2920			
+DO221718	ALL-US		TARGET-10-PANAWU	male	alive			8	8	17	3319	C91.0				3319	3319			
+DO221719	ALL-US		TARGET-10-PANBDJ	male	alive			16	16	26	3751	C91.0				3751	3751			
+DO221720	ALL-US		TARGET-10-PANBHA	male	alive			3	3	13	3776	C91.0				3776	3776			
+DO221727	ALL-US		TARGET-10-PANDSH	female	deceased			3	3	5	758	C91.0				758	758			
+DO221728	ALL-US		TARGET-10-PANDUK	male	alive			4	4	14	3784	C91.0				3784	3784			
+DO221725	ALL-US		TARGET-10-PANBVU	female	alive			2	2	12	3489	C91.0				3489	3489			
+DO221726	ALL-US		TARGET-10-PANDBV	male	deceased	relapse	progression (liquid tumours)	18	18	22	1371	C91.0				1626	1626			
+DO221723	ALL-US		TARGET-10-PANBMP	male				17	17	25	2975	C91.0				2975	2920			
+DO221721	ALL-US		TARGET-10-PANBIK	male				16	16	19	944	C91.0				944	1095			
+DO221722	ALL-US		TARGET-10-PANBIU	female				2	2	5	958	C91.0				958	1095			
+DO221729	ALL-US		TARGET-10-PANELP	female				13	13	19	1966	C91.0				1966	2190			
+DO221730	ALL-US		TARGET-10-PANEYX	male	alive			5	5	14	3409	C91.0				3409	3409			
+DO221731	ALL-US		TARGET-10-PANEZY	male	alive			11	11	21	3485	C91.0				3485	3485			
+DO221738	ALL-US		TARGET-10-PANFUM	male				3	3	12	3034	C91.0				3034	3285			
+DO221739	ALL-US		TARGET-10-PANGBH	female	alive			5	5	15	3444	C91.0				3444	3444			
+DO221736	ALL-US		TARGET-10-PANFPD	female				4	4	8	1307	C91.0				1307	1460			
+DO221735	ALL-US		TARGET-10-PANFNZ	female	deceased		progression (liquid tumours)	4	4	12	2357	C91.0				2778	2778			
+DO221732	ALL-US		TARGET-10-PANFAE	male				3	3	10	2677	C91.0				2677	2555			
+DO221733	ALL-US		TARGET-10-PANFCE	male	alive			12	12	21	3407	C91.0				3407	3407			
+DO221741	ALL-US		TARGET-10-PANGJC	male	alive			14	14	24	3652	C91.0				3652	3652			
+DO221742	ALL-US		TARGET-10-PANGKN	male	alive			13	13	23	3487	C91.0				3487	3487			
+DO221740	ALL-US		TARGET-10-PANGFS	male	alive			16	16	26	3560	C91.0				3560	3560			
+DO221749	ALL-US		TARGET-10-PANIIY	male				2	2	11	3105	C91.0				3105	3285			
+DO221747	ALL-US		TARGET-10-PANICK	male	alive			14	14	23	3346	C91.0				3346	3346			
+DO221748	ALL-US		TARGET-10-PANIDC	male	alive			13	13	23	3419	C91.0				3419	3419			
+DO221745	ALL-US		TARGET-10-PANHRW	male	alive			20	20	21	336	C91.0				336	336			
+DO221746	ALL-US		TARGET-10-PANHTV	male				15	15	23	2712	C91.0				2712	2920			
+DO221743	ALL-US		TARGET-10-PANGVW	female	alive			14	14	16	684	C91.0				684	684			
+DO221744	ALL-US		TARGET-10-PANGZM	female	alive			24	24	34	3386	C91.0				3386	3386			
+DO221752	ALL-US		TARGET-10-PANJJE	male	deceased	relapse	progression (liquid tumours)	15	15	18	839	C91.0				839	839			
+DO221753	ALL-US		TARGET-10-PANJPG	female	alive			13	13	24		C91.0				4072	4072			
+DO221750	ALL-US		TARGET-10-PANITD	male				7	7	16	3281	C91.0				3281	3285			
+DO221751	ALL-US		TARGET-10-PANIXZ	male	alive			10	10	16	2092	C91.0				2092	2092			
+DO221758	ALL-US		TARGET-10-PANKBV	male				17	17	25	2920	C91.0				2920	2920			
+DO221759	ALL-US		TARGET-10-PANKDT	female	alive			10	10	21		C91.0				3859	3859			
+DO221757	ALL-US		TARGET-10-PANJZA	male	deceased	relapse	progression (liquid tumours)	16	16	24	2151	C91.0				2803	2803			
+DO221754	ALL-US		TARGET-10-PANJRD	female				17	17	23	2140	C91.0				2140	2190			
+DO221755	ALL-US		TARGET-10-PANJVN	male				17	17	21	1385	C91.0				1385	1460			
+DO221764	ALL-US		TARGET-10-PANKYV	male	alive			3	3	13	3541	C91.0				3541	3541			
+DO221762	ALL-US		TARGET-10-PANKTJ	female	alive	relapse	progression (liquid tumours)	18	18	28	328	C91.0				3451	3451			
+DO221760	ALL-US		TARGET-10-PANKFU	male				7	7	14	2285	C91.0				2285	2555			
+DO221767	ALL-US		TARGET-10-PANLRD	female	alive			3	3	12	3617	C91.0				3617	3617			
+DO221768	ALL-US		TARGET-10-PANLTI	male	alive			2	2	11	3504	C91.0				3504	3504			
+DO221766	ALL-US		TARGET-10-PANLKU	female	alive			12	12	21	3531	C91.0				3531	3531			
+DO221895	ALL-US		TARGET-10-PANWUK	male				15	15	22	2566	C91.0				2566	2555			
+DO221896	ALL-US		TARGET-10-PANWVI	female	deceased	relapse	progression (liquid tumours)	6	6	11	645	C91.0				1614	1614			
+DO221893	ALL-US		TARGET-10-PANWSI	male				9	9	16	2498	C91.0				2498	2555			
+DO221894	ALL-US		TARGET-10-PANWUJ	male	alive			19	19	28	3373	C91.0				3373	3373			
+DO221891	ALL-US		TARGET-10-PANWRS	female				14	14	21	2617	C91.0				2617	2555			
+DO221892	ALL-US		TARGET-10-PANWSB	female	alive			3	3	12	3187	C91.0				3187	3187			
+DO221890	ALL-US		TARGET-10-PANWPI	male				16	16	20	1271	C91.0				1271	1460			
+DO221899	ALL-US		TARGET-10-PANWYB	male	deceased	relapse	progression (liquid tumours)	6	6	11	1698	C91.0				1720	1720			
+DO221898	ALL-US		TARGET-10-PANWXT	male	alive			16	16	25	3119	C91.0				3119	3119			
+DO221815	ALL-US		TARGET-10-PANTKG	male	deceased	relapse	progression (liquid tumours)	11	11	15	1248	C91.0				1457	1457			
+DO221816	ALL-US		TARGET-10-PANTUM	male				15	15	21	2134	C91.0				2134	2190			
+DO221813	ALL-US		TARGET-10-PANTHL	male				3	3	8	1873	C91.0				1873	1825			
+DO221811	ALL-US		TARGET-10-PANSNR	male	alive			18	18	27	3440	C91.0				3440	3440			
+DO221812	ALL-US		TARGET-10-PANSTC	male				6	6	12	2094	C91.0				2094	2190			
+DO221810	ALL-US		TARGET-10-PANSNA	male				17	17	21	1624	C91.0				1624	1460			
+DO221819	ALL-US		TARGET-10-PANUBA	female				19	19	22	1143	C91.0				1143	1095			
+DO221817	ALL-US		TARGET-10-PANTVY	male				12	12	19	2486	C91.0				2486	2555			
+DO221826	ALL-US		TARGET-10-PANUMV	female	alive			11	11	20	3160	C91.0				3160	3160			
+DO221827	ALL-US		TARGET-10-PANUNC	female				6	6	13	2682	C91.0				2682	2555			
+DO221824	ALL-US		TARGET-10-PANUJX	female				17	17	21	1345	C91.0				1345	1460			
+DO221822	ALL-US		TARGET-10-PANUIC	male	alive			17	17	26	3451	C91.0				3451	3451			
+DO221820	ALL-US		TARGET-10-PANUEC	female				12	12	16	1491	C91.0				1491	1460			
+DO221828	ALL-US		TARGET-10-PANUND	male				16	16	22	2384	C91.0				2384	2190			
+DO221830	ALL-US		TARGET-10-PANUUE	female	alive			11	11	20	3459	C91.0				3459	3459			
+DO221838	ALL-US		TARGET-10-PANUXV	female	alive			6	6	15	3276	C91.0				3276	3276			
+DO221835	ALL-US		TARGET-10-PANUWL	male	alive	relapse	progression (liquid tumours)	24	24	33	2089	C91.0				3387	3387			
+DO221836	ALL-US		TARGET-10-PANUXA	male	alive			2	2	11	3342	C91.0				3342	3342			
+DO221833	ALL-US		TARGET-10-PANUUW	male	alive			15	15	24	3118	C91.0				3118	3118			
+DO221831	ALL-US		TARGET-10-PANUUF	female	alive			11	11	22		C91.0				3911	3911			
+DO221839	ALL-US		TARGET-10-PANUXX	male	alive			15	15	24	3172	C91.0				3172	3172			
+DO221840	ALL-US		TARGET-10-PAMZDX	male	deceased			13	13	23	3677	C91.0				3677	3677			
+DO221848	ALL-US		TARGET-10-PANPUY	male	deceased			19	19	25	1601	C91.0				2438	2438			
+DO221849	ALL-US		TARGET-10-PANVCN	female	deceased			14	14	14	131	C91.0				131	131			
+DO221846	ALL-US		TARGET-10-PANMMK	female	alive			3	3	12	3406	C91.0				3406	3406			
+DO221844	ALL-US		TARGET-10-PANFGV	female	deceased	relapse	progression (liquid tumours)	13	13	18	1309	C91.0				1851	1851			
+DO221842	ALL-US		TARGET-10-PANATY	female	alive			4	4	14	3717	C91.0				3717	3717			
+DO221843	ALL-US		TARGET-10-PANBGW	female	alive			5	5	15	3576	C91.0				3576	3576			
+DO221852	ALL-US		TARGET-10-PANVDE	male	alive			5	5	14	3114	C91.0				3114	3114			
+DO221850	ALL-US		TARGET-10-PANVCS	male	deceased		progression (liquid tumours)	15	15	16	28	C91.0				533	533			
+DO221858	ALL-US		TARGET-10-PANVJB	male	alive	relapse	progression (liquid tumours)	2	2	11	2822	C91.0				3372	3372			
+DO221856	ALL-US		TARGET-10-PANVIG	male	deceased			6	6	10	521	C91.0				1588	1588			
+DO221854	ALL-US		TARGET-10-PANVEL	female	alive			12	12	17	1968	C91.0				1968	1968			
+DO221863	ALL-US		TARGET-10-PANVUV	female	alive	relapse	progression (liquid tumours)	11	11	20	1592	C91.0				3417	3417			
+DO221860	ALL-US		TARGET-10-PANVKY	female	alive			1	1	10	3227	C91.0				3227	3227			
+DO221861	ALL-US		TARGET-10-PANVSI	male	alive			24	24	33	3182	C91.0				3182	3182			
+DO221868	ALL-US		TARGET-10-PANVZG	male	alive			16	16	25	963	C91.0				3249	3249			
+DO221867	ALL-US		TARGET-10-PANVYB	male	alive			16	16	25	3151	C91.0				3151	3151			
+DO221864	ALL-US		TARGET-10-PANVVA	male	alive			13	13	22	3119	C91.0				3119	3119			
+DO221865	ALL-US		TARGET-10-PANVVB	female	alive			16	16	25	3093	C91.0				3093	3093			
+DO221874	ALL-US		TARGET-10-PANWDU	female	deceased			6	6	7	200	C91.0				200	200			
+DO221872	ALL-US		TARGET-10-PANWCH	female	alive			12	12	21	3308	C91.0				3308	3308			
+DO221870	ALL-US		TARGET-10-PANWBR	male	alive			6	6	15	3118	C91.0				3118	3118			
+DO221877	ALL-US		TARGET-10-PANWEZ	female	alive			14	14	23	3144	C91.0				3144	3144			
+DO221878	ALL-US		TARGET-10-PANWFA	male				15	15	20	1625	C91.0				1625	1825			
+DO221875	ALL-US		TARGET-10-PANWEC	male	alive			14	14	23	3422	C91.0				3422	3422			
+DO221876	ALL-US		TARGET-10-PANWEX	female				7	7	14	2538	C91.0				2538	2555			
+DO221884	ALL-US		TARGET-10-PANWHM	female	alive			13	13	22	3359	C91.0				3359	3359			
+DO221885	ALL-US		TARGET-10-PANWHW	female	alive			4	4	9		C91.0				1916	1916			
+DO221882	ALL-US		TARGET-10-PANWGI	male	alive			15	15	24	3398	C91.0				3398	3398			
+DO221883	ALL-US		TARGET-10-PANWGY	male				16	16	23	2711	C91.0				2711	2555			
+DO221880	ALL-US		TARGET-10-PANWFB	female	alive			17	17	25	2939	C91.0				2939	2939			
+DO221881	ALL-US		TARGET-10-PANWFL	female	alive			4	4	12	3030	C91.0				3030	3030			
+DO221889	ALL-US		TARGET-10-PANWNG	female	alive			9	9	18	3394	C91.0				3394	3394			
+DO221887	ALL-US		TARGET-10-PANWJB	male	deceased			14	14	15	382	C91.0				382	382			
+DO221804	ALL-US		TARGET-10-PANSCX	male	alive			18	18	27	3513	C91.0				3513	3513			
+DO221805	ALL-US		TARGET-10-PANSDV	male				15	15	21	2157	C91.0				2157	2190			
+DO221802	ALL-US		TARGET-10-PANRYM	female	alive			2	2	7		C91.0				1675	1675			
+DO221803	ALL-US		TARGET-10-PANSBC	female	alive			12	12	14	885	C91.0				885	885			
+DO221800	ALL-US		TARGET-10-PANRSU	male				11	11	15	1512	C91.0				1512	1460			
+DO221801	ALL-US		TARGET-10-PANRUP	male	alive	relapse	progression (liquid tumours)	9	9	18	1984	C91.0				3217	3217			
+DO221808	ALL-US		TARGET-10-PANSIL	male	alive			22	22	31	3183	C91.0				3183	3183			
+DO221809	ALL-US		TARGET-10-PANSIR	male	deceased	relapse	progression (liquid tumours)	1	1	6	620	C91.0				2012	2012			
+DO221806	ALL-US		TARGET-10-PANSGY	female	alive			13	13	22	3265	C91.0				3265	3265			
+DO221807	ALL-US		TARGET-10-PANSIA	female	alive			6	6	16		C91.0				3931	3931			
+DO221936	ALL-US		TARGET-10-PANXYD	male	alive			16	16	25	3219	C91.0				3219	3219			
+DO221937	ALL-US		TARGET-10-PANYAH	male	alive			6	6	15	3077	C91.0				3077	3077			
+DO221934	ALL-US		TARGET-10-PANXXR	female				16	16	16	100	C91.0				100	0			
+DO221932	ALL-US		TARGET-10-PANXWA	female	alive			13	13	21	3022	C91.0				3022	3022			
+DO221933	ALL-US		TARGET-10-PANXWI	male	alive			13	13	22	3085	C91.0				3085	3085			
+DO221930	ALL-US		TARGET-10-PANXVD	male				15	15	19	1382	C91.0				1382	1460			
+DO221938	ALL-US		TARGET-10-PANYAL	male	alive			4	4	13	3101	C91.0				3101	3101			
+DO221939	ALL-US		TARGET-10-PANYEJ	male	alive			2	2	12		C91.0				3875	3875			
+DO221940	ALL-US		TARGET-10-PANYFV	male				17	17	23	2175	C91.0				2175	2190			
+DO221947	ALL-US		TARGET-10-PANYHW	female	alive	relapse	progression (liquid tumours)	13	13	22	2269	C91.0				3110	3110			
+DO221948	ALL-US		TARGET-10-PANYIT	female	alive			5	5	14	3386	C91.0				3386	3386			
+DO221945	ALL-US		TARGET-10-PANYHL	female	alive			7	7	16	3376	C91.0				3376	3376			
+DO221946	ALL-US		TARGET-10-PANYHV	male				15	15	19	1563	C91.0				1563	1460			
+DO221943	ALL-US		TARGET-10-PANYGV	male	alive	relapse	progression (liquid tumours)	18	18	22	1563	C91.0				1565	1565			
+DO221944	ALL-US		TARGET-10-PANYHE	male	alive			2	2	11	3123	C91.0				3123	3123			
+DO221942	ALL-US		TARGET-10-PANYFY	female	alive			5	5	14	3237	C91.0				3237	3237			
+DO221949	ALL-US		TARGET-10-PANYJI	female	alive			16	16	25	3101	C91.0				3101	3101			
+DO221951	ALL-US		TARGET-10-PANYJJ	female	alive			7	7	15	3002	C91.0				3002	3002			
+DO221958	ALL-US		TARGET-10-PANYWH	female	alive			12	12	21	3072	C91.0				3072	3072			
+DO221959	ALL-US		TARGET-10-PANYXC	male	alive			3	3	8	1707	C91.0				1707	1707			
+DO221956	ALL-US		TARGET-10-PANYUR	female	alive			1	1	10	3225	C91.0				3225	3225			
+DO221954	ALL-US		TARGET-10-PANYNX	male				1	1	5	1361	C91.0				1361	1460			
+DO221955	ALL-US		TARGET-10-PANYPN	female	alive			13	13	22	3129	C91.0				3129	3129			
+DO221952	ALL-US		TARGET-10-PANYMY	female	alive			13	13	21	2849	C91.0				2849	2849			
+DO221961	ALL-US		TARGET-10-PANYYE	male	deceased	relapse	progression (liquid tumours)	11	11	19	1455	C91.0				2821	2821			
+DO221962	ALL-US		TARGET-10-PANYYW	male	alive			12	12	21	3364	C91.0				3364	3364			
+DO221960	ALL-US		TARGET-10-PANYXE	female				7	7	15	2834	C91.0				2834	2920			
+DO221968	ALL-US		TARGET-10-PANZFW	male				16	16	23	2324	C91.0				2324	2555			
+DO221965	ALL-US		TARGET-10-PANZCX	female	alive			6	6	14	2986	C91.0				2986	2986			
+DO221966	ALL-US		TARGET-10-PANZDB	female	alive			7	7	16	3247	C91.0				3247	3247			
+DO221963	ALL-US		TARGET-10-PANYZJ	female				11	11	18	2537	C91.0				2537	2555			
+DO221964	ALL-US		TARGET-10-PANZAR	female	alive			10	10	19	3258	C91.0				3258	3258			
+DO221972	ALL-US		TARGET-10-PANZHL	male				11	11	19	2732	C91.0				2732	2920			
+DO221973	ALL-US		TARGET-10-PANZID	male				5	5	12	2518	C91.0				2518	2555			
+DO221970	ALL-US		TARGET-10-PANZGD	male	alive			3	3	12	3077	C91.0				3077	3077			
+DO221971	ALL-US		TARGET-10-PANZHD	female	alive			2	2	3	222	C91.0				222	222			
+DO221978	ALL-US		TARGET-10-PANZLS	female				16	16	23	2423	C91.0				2423	2555			
+DO221979	ALL-US		TARGET-10-PANZNG	female	alive			20	20	29	3128	C91.0				3128	3128			
+DO221976	ALL-US		TARGET-10-PANZJL	male	alive			2	2	11	3368	C91.0				3368	3368			
+DO221977	ALL-US		TARGET-10-PANZKC	male	alive	relapse	progression (liquid tumours)	8	8	17	1849	C91.0				3137	3137			
+DO221974	ALL-US		TARGET-10-PANZJG	male	alive			2	2	11	3240	C91.0				3240	3240			
+DO221983	ALL-US		TARGET-10-PANZUE	male	alive			2	2	4	757	C91.0				757	757			
+DO221981	ALL-US		TARGET-10-PANZRH	female	deceased			16	16	16	81	C91.0				81	81			
+DO221980	ALL-US		TARGET-10-PANZPP	male				15	15	21	2092	C91.0				2092	2190			
+DO221989	ALL-US		TARGET-10-PAPADB	female	alive			3	3	12	605	C91.0				3026	3026			
+DO221988	ALL-US		TARGET-10-PANZZX	male	alive			4	4	13	3289	C91.0				3289	3289			
+DO221985	ALL-US		TARGET-10-PANZXZ	male	alive			13	13	21		C91.0				2970	2970			
+DO221986	ALL-US		TARGET-10-PANZZC	male	alive			12	12	18	2114	C91.0				2114	2114			
+DO221994	ALL-US		TARGET-10-PAPAGJ	female	deceased	relapse	progression (liquid tumours)	14	14	16	482	C91.0				776	776			
+DO221995	ALL-US		TARGET-10-PAPAGT	female	alive			13	13	22	3031	C91.0				3031	3031			
+DO221992	ALL-US		TARGET-10-PAPAEV	female	alive			13	13	22	3038	C91.0				3038	3038			
+DO221993	ALL-US		TARGET-10-PAPAFL	male	alive			13	13	18	1709	C91.0				1709	1709			
+DO221990	ALL-US		TARGET-10-PAPADC	female	deceased			16	16	17	93	C91.0				93	93			
+DO221991	ALL-US		TARGET-10-PAPAEB	female	alive			15	15	24	3173	C91.0				3173	3173			
+DO221998	ALL-US		TARGET-10-PAPAJT	male	alive	relapse	progression (liquid tumours)	9	9	18	1854	C91.0				3350	3350			
+DO221999	ALL-US		TARGET-10-PAPAJU	female	alive			18	18	27	3029	C91.0				3029	3029			
+DO221996	ALL-US		TARGET-10-PAPAHL	male				11	11	19	2670	C91.0				2670	2920			
+DO221997	ALL-US		TARGET-10-PAPAHP	female	alive			12	12	21	3009	C91.0				3009	3009			
+DO221903	ALL-US		TARGET-10-PANXAA	male	alive			7	7	16	3328	C91.0				3328	3328			
+DO221904	ALL-US		TARGET-10-PANXAC	female	alive			12	12	21	3112	C91.0				3112	3112			
+DO221901	ALL-US		TARGET-10-PANWYL	male	alive			1	1	10	3077	C91.0				3077	3077			
+DO221902	ALL-US		TARGET-10-PANWZU	male	alive			2	2	7	1808	C91.0				1808	1808			
+DO221900	ALL-US		TARGET-10-PANWYK	female	alive			15	15	23	3054	C91.0				3054	3054			
+DO221909	ALL-US		TARGET-10-PANXDS	male	alive			17	17	26	3403	C91.0				3403	3403			
+DO221907	ALL-US		TARGET-10-PANXDP	female	alive			13	13	22	3371	C91.0				3371	3371			
+DO221905	ALL-US		TARGET-10-PANXAH	male	alive			13	13	22	3067	C91.0				3067	3067			
+DO221906	ALL-US		TARGET-10-PANXDB	male	alive			8	8	18		C91.0				3737	3737			
+DO221914	ALL-US		TARGET-10-PANXFF	female				16	16	23	2413	C91.0				2413	2555			
+DO221915	ALL-US		TARGET-10-PANXGB	male	alive			12	12	21	3122	C91.0				3122	3122			
+DO221912	ALL-US		TARGET-10-PANXEH	female	deceased		progression (liquid tumours)	2	2	3	28	C91.0				235	235			
+DO221910	ALL-US		TARGET-10-PANXDT	female	alive			13	13	18	1805	C91.0				1805	1805			
+DO221911	ALL-US		TARGET-10-PANXDY	female				7	7	10	966	C91.0				966	1095			
+DO221918	ALL-US		TARGET-10-PANXGT	female				3	3	7	1557	C91.0				1557	1460			
+DO221916	ALL-US		TARGET-10-PANXGE	female	alive			11	11	19	3059	C91.0				3059	3059			
+DO221917	ALL-US		TARGET-10-PANXGG	male	alive			13	13	22	3403	C91.0				3403	3403			
+DO221925	ALL-US		TARGET-10-PANXPP	male	alive			8	8	17	3245	C91.0				3245	3245			
+DO221926	ALL-US		TARGET-10-PANXPV	female	alive			18	18	27	3141	C91.0				3141	3141			
+DO221923	ALL-US		TARGET-10-PANXNG	female	alive			5	5	10	1663	C91.0				1663	1663			
+DO221921	ALL-US		TARGET-10-PANXMP	male	alive			11	11	19	2994	C91.0				2994	2994			
+DO221922	ALL-US		TARGET-10-PANXNA	male	alive			10	10	19	3199	C91.0				3199	3199			
+DO221920	ALL-US		TARGET-10-PANXIV	male	alive			16	16	25	3101	C91.0				3101	3101			
+DO221929	ALL-US		TARGET-10-PANXUZ	male	alive			22	22	31	3369	C91.0				3369	3369			
+DO221927	ALL-US		TARGET-10-PANXPX	male	alive			4	4	9	1655	C91.0				1655	1655			
+DO221928	ALL-US		TARGET-10-PANXTR	female	deceased			11	11	12	354	C91.0				354	354			
