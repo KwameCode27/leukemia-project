@@ -19,7 +19,7 @@ from sklearn.metrics import classification_report , roc_curve, f1_score, accurac
 import re
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 # load the dataset
-df = pd.read_csv('C:/python39/Multi-omic/ML Technique/merged.csv' , encoding_errors= 'replace')
+df = pd.read_csv('merged.csv' , encoding_errors= 'replace')
 # split into input (X) and output (y) variables
 dataset = df.values
 X = dataset[:,0:17]
