@@ -1,0 +1,12 @@
+{
+    "final_model": {
+        "train_loss": 0.011596080847084522,
+        "train_accuracy": 0.9873617887496948,
+        "test_loss": 0.024968409910798073,
+        "test_accuracy": 0.9621450901031494,
+        "confusion_matrix": [
+            [144, 1],
+            [16, 156]
+            ]
+    }
+}

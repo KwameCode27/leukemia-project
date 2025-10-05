@@ -20,6 +20,7 @@ from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import confusion_matrix,mean_squared_error,precision_score,recall_score,f1_score
 from sklearn.metrics import classification_report , roc_curve, f1_score, accuracy_score, recall_score , roc_auc_score,make_scorer
 import re
+import json
 
 #loading dataset
 df = pd.read_csv('merged.csv' , encoding_errors= 'replace')
@@ -216,3 +217,39 @@ plt.ylabel('Sensitivity(True Positive Rate)')
 plt.title('ROC for 5-ML Models')
 plt.legend(loc="lower right")
 plt.show() # Display
+
+
+
+# initialize a dictionary to hold all metrics
+metrics_summary = {}
+
+# helper function to calculate key metrics for each model
+def evaluate_model(name, y_true, y_pred, y_proba=None):
+    cm = confusion_matrix(y_true, y_pred)
+    accuracy = accuracy_score(y_true, y_pred)
+    precision = precision_score(y_true, y_pred, average='weighted', zero_division=0)
+    recall = recall_score(y_true, y_pred, average='weighted', zero_division=0)
+    f1 = f1_score(y_true, y_pred, average='weighted', zero_division=0)
+    auc = roc_auc_score(y_true, y_proba[:, 1]) if y_proba is not None else None
+    
+    metrics_summary[name] = {
+        "accuracy": round(float(accuracy), 4),
+        "precision": round(float(precision), 4),
+        "recall": round(float(recall), 4),
+        "f1_score": round(float(f1), 4),
+        "auc": round(float(auc), 4) if auc is not None else None,
+        "confusion_matrix": cm.tolist()
+    }
+
+# evaluate all trained models
+evaluate_model("Logistic Regression", y_test, fun(reg.predict(X_test)), reg.predict_proba(X_test))
+evaluate_model("Decision Tree", y_test, fun(DT.predict(X_test)), DT.predict_proba(X_test))
+evaluate_model("Gradient Boosting", y_test, fun(GB.predict(X_test)), GB.predict_proba(X_test))
+evaluate_model("Random Forest", y_test, fun(RF.predict(X_test)), RF.predict_proba(X_test))
+evaluate_model("Naive Bayes", y_test, fun(model1.predict(X_test)), model1.predict_proba(X_test))
+
+# save metrics to a JSON file
+with open("metrics.json", "w") as f:
+    json.dump(metrics_summary, f, indent=4)
+
+print("\n✅ All model metrics saved to 'metrics.json'")

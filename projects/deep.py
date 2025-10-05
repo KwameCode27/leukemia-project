@@ -486,5 +486,25 @@ plt.xlabel('Actual',fontsize=20)
 plt.title('RNN with mean_squared_error',fontsize=20)
 plt.show()
 
+import json
+
+# Collect the important results
+metrics = {
+    "final_model": {
+        "train_loss": float(results1[0]),
+        "train_accuracy": float(results1[1]),
+        "test_loss": float(results[0]),
+        "test_accuracy": float(results[1]),
+        "confusion_matrix": cm.tolist()
+    }
+}
+
+# Save results into deep_metrics.json file
+with open("deep_metrics.json", "w") as f:
+    json.dump(metrics, f, indent=4)
+
+print("\n✅ Metrics have been saved to deep_metrics.json")
+
+
 
 
